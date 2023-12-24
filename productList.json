@@ -19,15 +19,15 @@
     {
       "id": "ase100h",
       "name": "Horrok's Apparatus",
-      "image": "https://biosan.lv/products/real-time-pcr-bioquant-96/",
-      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-100H.png?alt=media&token=808634ee-7a28-4476-9f82-787da1afdf4f",
+      "description": "contain 6 white cup of 200 ml capacity each 1 black cup, 2 metal spoons, 7 glass steering rods, one special pipette, 2 droppers, starch iodine indicatior",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20100H%20Horrok's%20Apparatus.pdf?alt=media&token=6057bbe2-9447-4040-a67e-24cbb1ba1d94"
     },
 
     {
       "id": "ase101",
       "name": "BOD Incubator",
-      "image": "https://biosan.lv/products/real-time-pcr-bioquant-96/",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%20RECTANGULARROUND%20SPECIMEN%20JARS%20WITH%20LID.png?alt=media&token=cf77a929-f40f-4b46-8f6f-735a9a997968",
       "description": "Low Temperature",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101%20Incubator%20(Low%20Temp).pdf?alt=media&token=66fcd62c-b3d9-44b2-9f2f-651d53c8927b"
     },
@@ -42,7 +42,7 @@
     {
       "id": "ase1015",
       "name": "Ultra Sonic Cleaner",
-      "image": "https://biosan.lv/products/real-time-pcr-bioquant-96/",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1015.png?alt=media&token=056e84c9-a824-4413-9325-377762076909",
       "description": "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201015%20Ultra%20Sonic%20Cleaner.pdf?alt=media&token=31925c1a-03ea-4c2b-bf00-f70c9a5ee594"
     },
@@ -50,7 +50,7 @@
     {
       "id": "ase1016",
       "name": "BB Dry Bath",
-      "image": "https://biosan.lv/products/real-time-pcr-bioquant-96/",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1016BB.png?alt=media&token=c0ae2575-bddb-4b34-83f7-c0a7c4c87357",
       "description": "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201016%20BB%20Dry%20Bath.pdf?alt=media&token=b3b28794-20ce-4a46-990f-09211c0412c5"
     },
@@ -58,7 +58,7 @@
     {
       "id" : "ase101w",
       "name" : "Wind Vane",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-101%20W.png?alt=media&token=860df854-825d-4554-85d9-16611fe22ee6",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101W%20Wind%20Vane.pdf?alt=media&token=5c8c39f2-80bc-4e7e-85d9-53f1f23015ff"
     },
@@ -66,7 +66,7 @@
     {
       "id" : "ase102",
       "name" : "Incubator",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-102%20(2).png?alt=media&token=5e88ab25-2b27-4bfa-b216-53988ae9b761",
       "description" : "Super Automatic Model",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20102%20Incubator%20(Super%20Automatic%20Model).pdf?alt=media&token=f63a1aab-f341-453d-9e1e-2e9ce520c70c"
     },
@@ -82,7 +82,7 @@
     {
       "id" : "ase102c",
       "name" : "Chloroscope",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-102%20C.png?alt=media&token=651f7219-ad4f-49de-94ec-231e4a21943f",
       "description" : "Appartus for measuring quantitive residual chlorine in drinking water",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20102C%20Chloroscope%20(Apparatus%20for%20measuring%20quantitative%20residual%20chlorine%20in%20drinking%20water).pdf?alt=media&token=ca075d73-810f-4ea7-8a50-8bbd52a94539"
     },
@@ -106,64 +106,64 @@
     {
       "id" : "ase104",
       "name" : "Seed Germinator",
-      "image" : "",
-      "description" : "Single Chamber",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-104%20(2).png?alt=media&token=902e92f6-3af5-48dd-ba43-62514021b212",
+      "description" : "Single Chamber, double-walled for temp control (50°C to 500°C) and humidity (90-95% RH). Includes 14 trays; optional: lighting, timer, humidity control, and digital indicators.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20104%20Seed%20Germinator%20(Single%20Chamber).pdf?alt=media&token=dad71ffb-d4b3-457d-b787-97f0c108157b"
     },
 
     {
       "id" : "ase105",
       "name" : "Seed Germinator",
-      "image" : "",
-      "description" : "Dual Chamber",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-105.png?alt=media&token=b0f4fbb1-6932-47d6-9660-e2cb70f552e7",
+      "description" : "Dual Chamber Seed germinator with double-walled design, Microprocessor-based temperature control (50°C to 500°C), programmable lighting, and optional features for humidity, timer, and mobility.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20105%20Seed%20Germinator%20(Dual%20Chamber).pdf?alt=media&token=634ec62f-72e4-4697-b4fe-0f4c51a41996"
     },
 
     {
       "id" : "ase1056",
       "name" : "Dissection Microscope",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1056.png?alt=media&token=208ca251-bae4-4dfc-9a90-397f09c530b3",
+      "description" : "This a deluxe Model with all brass parts and fitted with Bull eye Lens 80 MM dia and 10 x and 20 x achromatic eye Piece Packed in Ply Wood Box",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201056%20Dissection%20Microscope.pdf?alt=media&token=b5d23281-7a20-4bef-bf90-3a11ff81b132"
     },
 
     {
       "id" : "ase106",
       "name" : "Humidity and Temperature Control Cabinet",
-      "image" : "",
-      "description" : "Ageing Chamber",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-106.png?alt=media&token=50be39dd-4d74-4a3d-b0df-7e53373b3686",
+      "description" : "Ageing Chamber. Quality control chamber with temperature range 50°C to 500°C, humidity control up to 95% RH, anodized aluminum or stainless steel inner chamber, and optional accessories including hygrometer and digital indicators.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20106%20Humidity%20and%20Temprature%20Control%20Cabinet%20(Ageing%20Chamber).pdf?alt=media&token=380ade5b-7638-430d-a8d5-68a043814e5d"
     },
 
     {
       "id" : "ase1066",
       "name" : "Microscope Binocular Inclined Pathological Biomad-20",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1066.png?alt=media&token=c222a116-cd4d-4a76-a5b9-105b34b1914b",
+      "description" : "Sturdy binocular microscope with 45-degree inclined head, ball-bearing nosepiece, ABBE condenser, and semi-plan achromatic objectives. Features 6V 20W halogen illumination and a hinged door for quick bulb change.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201066%20Microscope%20Binocular%20Inclined%20Pathological%20Biomad-20.pdf?alt=media&token=d5ae248e-f367-4ad6-bf96-45b26d94b552"
     },
 
     {
       "id" : "ase1067",
       "name" : "Anaerobic Chamber",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1067.png?alt=media&token=882fb82b-5c7d-4b24-a32f-0af8b8febaf6",
+      "description" : "Double-walled unit with Microprocessor-controlled temperature (5°C to 60°C), digital humidity controller, and vacuum pump for various sizes, featuring M.S. Sheet outer and SS 304 inner walls.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201067%20Anaerobic%20Chamber.pdf?alt=media&token=08c662d2-f797-4fb4-8b07-a0c0d6271b26"
     },
 
 
     {
       "id" : "ase1068",
-      "name" : "Dissecting Chamber",
-      "image" : "",
-      "description" : "Deluxe",
+      "name" : "Dissecting Microscope",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1068.png?alt=media&token=e061ba29-b22a-4c85-9f16-1c445fe7e00a",
+      "description" : "Deluxe. Stable microscope with movable 5X objectives, natural light source, and optional 10x & 20x magnification, packed with stage clips in a wooden or thermocol box.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201068%20Dissecting%20Microscope(Deluxe).pdf?alt=media&token=7e8e1f55-1fa1-453c-936b-9f258ebd9b6b"
     },
 
     {
       "id" : "ase1069",
       "name" : "Microscope Student",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1069.png?alt=media&token=83960d49-2147-422c-b69d-a0cf2f653089",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201069%20Microscope%20Student.pdf?alt=media&token=4233f5a7-81fa-47f7-a4a3-ba3d6f443c72"
     },
@@ -171,15 +171,15 @@
     {
       "id" : "ase1069a",
       "name" : "Microscope Student",
-      "image" : "",
-      "description" : "Same as GHS(Olympus Type)Tube Length 160mm",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1069%20A%26B.png?alt=media&token=aeeb4782-7868-44a2-9699-f3d9af2b337b",
+      "description" : "GHS-type microscope with 160mm tube length, Huy eyepieces, achromatic objectives, graduated mechanical stage, N.A 1.25 condenser, and plano concave reflecting mirror.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201069a%20Microscope%20Student%20(Same%20as%20GHS%20(Olympus%20Type)%20Tube%20Length%20160mm).pdf?alt=media&token=f6ccaa31-9895-4f56-baf7-82ee7b1d9e78"
     },
 
     {
       "id" : "ase1069b",
       "name" : "Microscope Student",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1069%20A%26B.png?alt=media&token=aeeb4782-7868-44a2-9699-f3d9af2b337b",
       "description" : "Same as HSA(Olympus Type)Tube Length 160mm",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201069b%20Microscope%20Student%20(Same%20as%20HSA%20(Olympus%20Type)%20Tube%20Length%20160mm).pdf?alt=media&token=08a8b408-b1a6-45ea-aacd-2a614d432a2a"
     },
@@ -187,16 +187,16 @@
     {
       "id" : "ase108",
       "name" : "CO2 Incubator",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-107.png?alt=media&token=012023a3-3169-45a6-ac98-d3a2432e56dd",
+      "description" : "ASE-108 Carbon-Dioxide Incubator: Double-walled, stainless steel inner, temperature control, CO2 inlet, optional accessories available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20108%20CO2%20Incubator.pdf?alt=media&token=a911da70-0932-4e6b-a8cb-1537a3df1220"
     },
 
     {
       "id" : "ase109",
       "name" : "Plant Growth Chamber",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-109.png?alt=media&token=5634b925-1def-4292-962e-7d52def0d24a",
+      "description" : "Dual-setting temperature growth chamber (0°C to 50°C) with a sealed compressor, humidity regulation, available in 30 Cu.ft. and 50 Cu.ft. sizes, and optional digital controller and programmable timer.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20109%20Plant%20Growth%20Chamber.pdf?alt=media&token=3799dd46-d1d8-4264-b2fc-d61e9a494f55"
     },
 
@@ -220,8 +220,8 @@
     {
       "id" : "ase110a",
       "name" : "Deep Freezer Vertical",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-110a.png?alt=media&token=71ad7c66-b574-48cd-b994-418c2ba0abd8",
+      "description" : "Efficient -10°C to -25°C deep freezer with LCD display, electronic door lock, LED lighting, and microprocessor control system for sample protection. Capacity: 210-500 Ltr.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20110a%20Deep%20Freezer%20Vertical.pdf?alt=media&token=9c4b161c-c143-4177-8716-6f16adf887e3"
     },
 
@@ -229,103 +229,103 @@
     {
       "id" : "ase110b",
       "name" : "Deep Freezer Horizontal",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-110%20ab.png?alt=media&token=5b3c64e3-e578-46d9-a7cd-dde4c569e600",
+      "description" : "Deep Freezers with stainless steel inner, powder-coated outer, temperature range from ambient to -20°C, air circulation fan, and full-view plexi-glass door. Capacity: 200-500 Ltr.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20110b%20Deep%20Freezer%20Horizontal.pdf?alt=media&token=2a9b4aac-7574-4f7d-980c-b4d4fa7d34c3"
     },
 
     {
       "id" : "ase110c",
       "name" : "Deep Freezer",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-110%20C.png?alt=media&token=a7bac4c7-2573-4532-b3e1-8742e4a29205",
+      "description" : "Vertical deep freezer (-20°C) with stainless steel inner, PUF insulation, and SHRIRAM/KIRLOSKER compressor. Capacities: 4 to 25 Cu.ft. ISO9001, ISO 13485, FDA, CE, IEC-60601 approved.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20110c%20Deep%20Freezer.pdf?alt=media&token=4a10962a-6af6-48b7-93d1-767beea4a7eb"
     },
 
     {
       "id" : "ase111",
-      "name" : "Refrigerated Water Bath",
-      "image" : "",
-      "description" : "Low Temperature",
+      "name" : "Refrigerated Water Bath (Low temp)",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-111.png?alt=media&token=27d2d45d-46a7-4f14-87ae-9854c1367714",
+      "description" : "Sturdy temperature-controlled bath with stainless steel inner, enamel-painted outer and -10°C to 100°C temperature range.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20111%20Refrigerated%20Water%20Bath%20(Low%20Temprature).pdf?alt=media&token=47a425ea-ffa4-46a8-9648-2156ca5a1e71"
     },
 
     {
       "id" : "ase1110d",
       "name" : "Deep Freezer",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1110%20DEEP%20FREEZER.png?alt=media&token=2910192a-becc-46cd-a921-97c7e8d8ed78",
+      "description" : "-20°C to ambient Double Deep Freezers, 316-grade stainless steel, SHRIRAM/KIRLOSKER compressor, PUF insulation, 380 Liters capacity.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201110%20Deep%20Freezer.pdf?alt=media&token=7e123184-45ec-45b7-aaee-b4da0720bd37"
     },
 
     {
       "id" : "ase1110s",
       "name" : "Storage Refrigerator",
-      "image" : "",
-      "description" : "4C to -20C",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1110.png?alt=media&token=d3e68dc2-52d9-4724-8ff8-414001d9220b",
+      "description" : "Double Storage Refrigeration with 304-grade stainless steel, -20°C to 4°C range, SHRIRAM/KIRLOSKER compressor, PUF insulation, and digital control. Capacities: 4-25 Cu.ft.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201110%20Storage%20Refrigerator%20(4%20C%20to%20-20%20C).pdf?alt=media&token=862ad744-c272-4bd5-b1b5-0ea4e7979132"
     },
 
     {
       "id" : "ase112",
       "name" : "De-Humidifier",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-112.png?alt=media&token=1ac949da-aaf0-4e3b-afed-881acd770c63",
+      "description" : "Refrigeration-based Dehumidifiers with SHRIRAM/KIRLOSKAR compressor, copper coils, and automatic HUMIDISTAT. Sizes: 1-1.5 Tonne.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20112%20De-Humidifier.pdf?alt=media&token=0b84df99-0ea6-4cf0-a753-456b8e092733"
     },
 
     {
       "id" : "ase113",
       "name" : "Orbital Shaking Incubator-Water Bath",
-      "image" : "",
-      "description" : "useful for growing cultures of micro-organisms and tissue cells",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-113.png?alt=media&token=e458eb90-9de1-41bb-bee4-8fbea4902299",
+      "description" : "Useful for growing cultures of micro-organisms and tissue cells",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20113%20Orbital%20Shaking%20Incubator%20-%20Water%20Bath%20(useful%20for%20growing%20cultures%20of%20micro-organisms%20and%20tissue%20cells).pdf?alt=media&token=2f9fd9a5-2ecd-4262-9def-50937f176a6a"
     },
 
     {
       "id" : "ase1155",
       "name" : "Fortin Barometer",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-%201155.jpg?alt=media&token=f281da32-79e9-4bd6-9514-4d584fc87ad5",
+      "description" : "Precision mercury barometer with adjustable wash-leather bag, accurate readings, and optional specifications.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201155%20Fortin%20Barometer.pdf?alt=media&token=a01f1703-91b1-4d63-84a0-94b0d30d9a54"
     },
 
     {
       "id" : "ase1164",
-      "name" : "Bodies Mortuary Chamber",
-      "image" : "",
-      "description" : "",
+      "name" : "4 Bodies Mortuary Chamber",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-116%20(d).png?alt=media&token=3a01295a-cd3f-46c9-bba8-33737f627487",
+      "description" : "Double-walled mortuary chamber for cadaver storage, stainless steel, temperature control, and safety features.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20116%204%20Bodies%20Mortuary%20Chamber.pdf?alt=media&token=663a0bc0-11e0-4093-b2f3-25cc5255d167"
     },
 
     {
       "id" : "ase116s",
       "name" : "Six Bodies Mortuary Chamber",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-116%20eSS.png?alt=media&token=e7bd3082-f373-4222-afd8-8dc7397fae03",
+      "description" : "Used for storing cadaverous under low temperature cool conditions in order to prevent decomposition",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20116%20Six%20Bodies%20Mortuary%20Chamber.pdf?alt=media&token=98a8f3d3-6784-461e-95bd-d2affee271bf"
     },
 
     {
       "id" : "ase116b",
       "name" : "Mortuary Chamber",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-116.png?alt=media&token=1e35084d-7d8f-47d5-9f8a-09c24b45f2e6",
+      "description" : "Used for storing cadaverous under low temperature cool conditions in order to prevent decomposition",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20116B%20Mortuary%20Chamber.pdf?alt=media&token=65a496df-87bb-4b38-9afa-2afa5845c5cd"
     },
 
     {
       "id" : "ase117",
       "name" : "Blood Bank Refrigerator",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-117%20(2).png?alt=media&token=f42d263c-bf7b-47f4-a568-8e9a53b13319",
+      "description" : "Versatile blood bank refrigerator with temperature control, alarms, and various capacities. Guaranteed for 2 years.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20117%20Blood%20Bank%20Refrigerator.pdf?alt=media&token=239bf643-c9c5-41b9-86e6-3989846c10f6"
     },
 
     {
       "id" : "ase118",
       "name" : "Lyophilizer",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-118.png?alt=media&token=7ab49d76-c1ce-4b87-a745-57db7675b915",
       "description" : "Freezer Dryer Approx 5Kg Capacity",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20118%20Lyophilizer%20(Freezer%20Dryer%20Approx%205%20Kg%20Capacity).pdf?alt=media&token=7da9d492-dcc7-4b63-a436-917901440f04"
     },
@@ -333,63 +333,63 @@
     {
       "id" : "ase120",
       "name" : "Vaccum Oven",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-120a.png?alt=media&token=972ad5d3-c179-47df-9432-a090666b217c",
+      "description" : "Double-walled units with MS outer, stainless steel inner, toughened glass door. Microprocessor control. Various sizes.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20120%20Vaccum%20Oven.pdf?alt=media&token=9ffb0a1f-d354-4cc6-afbe-f24f2366e1d5"
+    },
+
+    {
+      "id" : "ase121",
+      "name" : "Oil Free Vaccum Oven",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-120.png?alt=media&token=7aa9d96f-5ac7-4635-8259-41cb246de29b",
+      "description" : "Oil-Free Vacuum Pump for filtration, solid phase extraction, with accessories. Quiet, maintenance-free.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20120%20Vaccum%20Oven.pdf?alt=media&token=9ffb0a1f-d354-4cc6-afbe-f24f2366e1d5"
     },
 
     {
       "id" : "ase1200",
       "name" : "Thermometer Laboratory",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1200.png?alt=media&token=cc4e70bf-7b48-405f-900d-b07f68a464a2",
+      "description" : "12-inch glass thermometer with mercury or organic liquid, -10 to 250°C range, accurate, readable, and affordable. Partial or total immersion options.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201200%20Thermometer%20Laboratory.pdf?alt=media&token=20c7b887-43ea-464f-932e-bdab3b2ff3d1"
     },
 
     {
       "id" : "ase1201",
       "name" : "Urinometers",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1201.png?alt=media&token=04dcaf42-9af0-491a-9a6e-5d85b7f5e3ae",
+      "description" : "Urinometers measure urine specific gravity with a glass float, weight, and calibrated stem.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201201%20Urinometers.pdf?alt=media&token=b15cac14-24b5-4c6b-ba31-e8d5592f58b0"
     },
 
     {
       "id" : "ase121f",
-      "name" : "Flocculator",
-      "image" : "",
-      "description" : "Jar Testing Apparatus",
+      "name" : "Flocculator (Jar Testing Apparatus)",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-121.png?alt=media&token=748ba9cf-1643-4909-a60b-af37deab7d94",
+      "description" : "Efficient flocculator for water treatment, variable speed motor, stainless steel paddles, optional feeding attachment.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20121%20Flocculator%20(Jar%20Testing%20Apparatus).pdf?alt=media&token=f6085fec-d196-462c-879d-86b7b357db07"
-    },
-
-    {
-      "id" : "ase121v",
-      "name" : "Vaccum Pump Oil Free",
-      "image" : "",
-      "description" : "",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20121%20Vaccum%20Pump%20Oil%20Free.pdf?alt=media&token=2c6740a7-6ec2-437a-a076-cf90eaf215d8"
     },
 
     {
       "id" : "ase122",
       "name" : "Rotary Vaccum Pump",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-122.png?alt=media&token=e1000bde-f9c6-4e3a-916c-c369bdaa1fae",
+      "description" : "V-Belt driven at a speed of 400 RPM and creates vacuum upto 0.001mm. Hg",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20122%20Rotary%20Vaccum%20Pump.pdf?alt=media&token=dbb3e96a-a29f-4a54-979b-3dbcfdf4e5dc"
     },
 
     {
       "id" : "ase124a",
       "name" : "Autoclave Portable",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-124.png?alt=media&token=20d24be6-28f4-4807-bb8c-8d6534a6fb56",
+      "description" : "Essential for labs, autoclave with neoprene rubber gasket, pressure gauge, safety valves. Available in aluminum or stainless steel.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20124%20Autoclave%20Portable.pdf?alt=media&token=fff3e194-1481-4aef-a351-e7e6cf2b76d2"
     },
 
     {
       "id" : "ase124m",
       "name" : "Micro Pipette(IVD) CE",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-124%20MICRO%20PIPETTE%20(IVD)%20CE.png?alt=media&token=34239e7e-e35d-48ac-8028-4df6ab75ee05",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20124%20Micro%20Pipette%20(IVD)%20CE.pdf?alt=media&token=ab3f3a42-37df-4cc2-95f5-8aee3c01e63c"
     },
@@ -397,31 +397,31 @@
     {
       "id" : "ase125",
       "name" : "Autoclave Vertical",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-125.png?alt=media&token=f220833e-4328-4ee6-9ae1-926f6361fb40",
+      "description" : "Electric vertical sterilizer, adjustable 5-25 psi, stainless steel, automatic, various sizes, safety features.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20125%20Autoclave%20Vertical.pdf?alt=media&token=967d8701-141d-4936-b24c-6f1cf5c8db4c"
     },
 
     {
       "id" : "ase126a",
-      "name" : "Autoclave High Pressure",
-      "image" : "",
-      "description" : "Triple Walled For Dry Sterilization",
+      "name" : "Autoclave Vertical High Pressure",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-125a.png?alt=media&token=6d4bee6b-7da8-48b1-954e-257158263414",
+      "description" : "Triple Walled For Dry Sterilization (15-20 psi)",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20126%20Autoclave%20High%20Pressure(Triple%20Walled%20For%20Dry%20Sterlization).pdf?alt=media&token=673a5d4a-8390-4108-8cee-661f8818b2cc"
     },
 
     {
       "id" : "ase126p",
       "name" : "Pipette Multichannel Micro Pipette and Stopper Pipette",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-126%20PIPETTE%20MULTICHANNEL.png?alt=media&token=de172950-2d3a-4fb5-b322-c2aad0c481c6",
+      "description" : "    ",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20126%20Pipette%20Multichannel%20Micro%20Pipette%20and%20Stopper%20Pipette.pdf?alt=media&token=6863f26b-8dcd-4850-9408-e93181975779"
     },
 
     {
       "id" : "ase128",
       "name" : "Horizontal High Pressure Cylindrical Steam Starlizer",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-128.png?alt=media&token=aab4ca12-113a-44aa-997a-d620dbfc9192",
       "description" : "Tripple Walled with Steam Jacket and Separate Boiler",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20128%20Horizontal%20High%20Pressure%20Cylindrical%20Steam%20Starlizer%20(Tripple%20Walled%20with%20Steam%20Jacket%20and%20Seperate%20Boiler).pdf?alt=media&token=6580afca-8af2-4d22-b6fd-7d9180b59383"
     },
@@ -429,23 +429,31 @@
     {
       "id" : "ase129",
       "name" : "Paraffin Embedded Bath",
-      "image" : "",
-      "description" : "Ambient +5degree C tp 100 degree C",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-129.png?alt=media&token=7837515a-0839-4641-b0eb-062f8a0fb134",
+      "description" : "Stainless steel Vacuum Embedding Bath for paraffin wax heating (Ambient +5°C to 100°C). Digital temperature control, vacuum pots, glass lids.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20129%20Paraffin%20Embedded%20Bath%20(Ambient%20%2B5%20degree%20C%20to%20100%20degree%20C).pdf?alt=media&token=6314a8cd-b8bd-46d2-b3f1-d3c53037121a"
     },
 
     {
-      "id" : "ase130",
+      "id" : "ase160w",
       "name" : "Water Bath Incubator Shaker",
       "image" : "",
-      "description" : "Metabolic Shaking Incubator",
+      "description" : "Double-walled shaking bath for manometric applications, stainless steel interior, variable speed, digital temperature control (ambient to 100°C).",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20130%20Water%20Bath%20Incubator%20Shaker%20(Metabolic%20Shaking%20Incubator).pdf?alt=media&token=9f1edb45-4e12-423b-837b-987350ec21a8"
+    },
+
+    {
+      "id" : "ase160m",
+      "name" : "Metabolic Shaking Incubator",
+      "image" : "",
+      "description" : "Double-walled shaking bath for manometric applications, stainless steel interior, variable speed, digital temperature control (ambient to 100°C).",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20130%20Water%20Bath%20Incubator%20Shaker%20(Metabolic%20Shaking%20Incubator).pdf?alt=media&token=9f1edb45-4e12-423b-837b-987350ec21a8"
     },
 
     {
       "id" : "ase1302",
       "name" : "X-Ray Viewing Lobby",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1303.png?alt=media&token=7d42c076-eecf-4501-9c9f-672e11f2d66e",
       "description" : "Four X Ray",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201302%20X-Ray%20Viewing%20Lobby%20(Four%20X%20Ray).pdf?alt=media&token=a4e117a6-c852-423a-ace9-8c19e894a98c"
     },
@@ -453,7 +461,7 @@
     {
       "id" : "ase1303",
       "name" : "X-Ray Viewing",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-%201303.png?alt=media&token=6f27628b-1e6d-4d0a-af88-ab242cd2f4c2",
       "description" : "Double X Ray",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201303%20X-Ray%20Viewing%20(Double%20X%20Ray).pdf?alt=media&token=4558dbf1-420a-4232-bed9-7a600586a31f"
     },
@@ -461,7 +469,7 @@
     {
       "id" : "ase1304",
       "name" : "X-Ray Viewing",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1303.png?alt=media&token=7d42c076-eecf-4501-9c9f-672e11f2d66e",
       "description" : "Single X Ray",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201304%20X-Ray%20Viewing%20(Single%20X%20Ray).pdf?alt=media&token=dc21b35d-758c-4b3d-875c-c01f69b460a8"
     },
@@ -469,7 +477,7 @@
     {
       "id" : "ase131",
       "name" : "PCR Hood",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-131%20PCR%20HOOD.png?alt=media&token=6f7ef7f8-7930-4d60-a61f-59b3eb899f4d",
       "description" : "PCR Work Station",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20131%20PCR%20Hood%20(PCR%20Work%20Station).pdf?alt=media&token=d469a187-096c-4f5e-a6d0-19b56334754c"
     },
@@ -477,23 +485,23 @@
     {
       "id" : "ase132b",
       "name" : "Biological safety Cabinet",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-132%20Biological%20Safety%20Cabinet.png?alt=media&token=c50cb72d-3226-4318-a1a9-d732e3a87360",
+      "description" : "MS Sheet cabinets, epoxy-painted interior, plexiglass panels. Pre-filter, HEPA filter, LED display. Microprocessor-based, glove ports, UV light. Available in various sizes.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20132%20Biological%20Safety%20Cabinet.pdf?alt=media&token=ce482a6b-5ccd-4261-aef7-1606687565d4"
     },
 
     {
       "id" : "ase132f",
       "name" : "Fume Hood Cupboard",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-132%20Fume%20Hood%20(1).png?alt=media&token=a01a9460-7c41-4462-bcd5-a1ce4db44ac5",
+      "description" : "safeguard against toxic gases and fumes with double walls, granite surface, rising sash, sink, gas cock.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20132%20Fume%20Hood%20Cupboard.pdf?alt=media&token=fc329ecc-dace-473f-9a38-d8dacf0d2aa5"
     },
 
     {
       "id" : "ase132a2",
       "name" : "Biosafety Cabinet Class II",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-132a%20BIOSAFETY.png?alt=media&token=c73615b8-9a8e-4dc3-b1e2-8f2f9fd89382",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20132a%20Biosafety%20Cabinet%20Class%20II.pdf?alt=media&token=e7a0e5a6-98d6-4875-8326-5228a0f673f9"
     },
@@ -501,7 +509,7 @@
     {
       "id" : "ase132a1",
       "name" : "Biosafety Cabinet",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%20132a.png?alt=media&token=e867787c-6733-4761-8f1d-0ee98385a4f8",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20132a%20Biosafety%20Cabinet.pdf?alt=media&token=36dbe997-f61e-451d-83d7-3e507c1cd40a"
     },
@@ -509,7 +517,7 @@
     {
       "id" : "ase133",
       "name" : "Tissue Culture Rack",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-133.png?alt=media&token=a94e88e3-2322-44f3-9fd2-e065353a49b1",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20133%20Tissue%20Culture%20Rack.pdf?alt=media&token=2564a48b-e5f9-4a4a-ac80-3660dc42d772"
     },
@@ -517,7 +525,7 @@
     {
       "id" : "ase134",
       "name" : "Horizontal Laminar Air Flow Cabinet",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-134%20Laminar%20Flow%20Cabinet.png?alt=media&token=a615f87d-35c2-4eff-be1f-0d50c1b1798b",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20134%20Horizonatl%20Laminar%20Air%20Flow%20Cabinet.pdf?alt=media&token=0155ee94-4197-4c06-95b1-4904b48834a2"
     },
@@ -525,7 +533,7 @@
     {
       "id" : "ase135",
       "name" : "Innoculation Chamber or UV Lamp with Cabinet",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-135.png?alt=media&token=ed7fd2dc-a9f4-48e5-a4bd-5d5b6fb64aa2",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20135%20Innocultion%20Chamber%20or%20UV%20Lamp%20with%20Cabinet.pdf?alt=media&token=cd763bb8-b6ea-40f6-9bae-c4af733a24b0"
     },
@@ -533,7 +541,7 @@
     {
       "id" : "ase137",
       "name" : "Vertical Laminar Air Flow Cabinet",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-137.png?alt=media&token=ff803f9a-9358-4a08-a8cb-0bd85324e217",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20137%20Vertical%20Laminar%20Air%20Flow%20Cabinet.pdf?alt=media&token=f6ccee0d-675e-4ee3-ae88-7ee09eee297e"
     },
@@ -541,23 +549,23 @@
     {
       "id" : "ase138",
       "name" : "Air Curtain",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-138.png?alt=media&token=9979662a-c731-4d46-9c18-5b712d834ddb",
+      "description" : "Come in all sizes ranging from 24 inches to 72 inches (2 feet to 6 feet) in single units.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20138%20Air%20Curtain.pdf?alt=media&token=971a5989-e057-4fc7-a820-984ae0737b76"
     },
 
     {
       "id" : "ase139",
       "name" : "Tissue Culture Hood",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-139.png?alt=media&token=22c2de94-5032-4948-b360-2a090b392171",
+      "description" : "size 1220 mm x 610mm x (Ht.At.Back)",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20139%20Tissue%20Culture%20Hood.pdf?alt=media&token=e2736e10-7cb9-43d8-ba0b-b4ae31c7e78b"
     },
 
     {
       "id" : "ase140",
       "name" : "Fogger Machine",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-140.png?alt=media&token=6ef9094e-1df3-4fd0-981d-4bee3de58154",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20140%20Fogger%20Machine.pdf?alt=media&token=a330e5cc-bdd7-40b9-a0ae-bb3051abb57e"
     },
@@ -565,7 +573,7 @@
     {
       "id" : "ase141",
       "name" : "Water Still",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-141.png?alt=media&token=232d317c-f7bc-498c-bcdd-b0c139afefa1",
       "description" : "Wall Mounted",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20141%20Water%20Still%20(Wall%20Mounted).pdf?alt=media&token=6feb63a5-6da3-4842-90ee-e497dd15983f"
     },
@@ -573,7 +581,7 @@
     {
       "id" : "ase142",
       "name" : "Distillation Apparatus All Glass",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-142.png?alt=media&token=71df8e85-b319-47b3-b1cb-1b2fdfebdff4",
       "description" : "Electrically Heated",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20142%20Distillation%20Apparatus%20All%20Glass%20(Electrically%20Heated).pdf?alt=media&token=562d0d52-e58f-43e1-acb5-2401fabf49a6"
     },
@@ -581,7 +589,7 @@
     {
       "id" : "ase143",
       "name" : "Water Still",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-143.png?alt=media&token=d1d626cf-e469-4e3e-9d36-25121f04337b",
       "description" : "Table Pattern-Barnstead Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20143%20Water%20Still%20(Table%20Pattern-Barnstead%20Type).pdf?alt=media&token=4658808a-3554-47b9-a494-a76fb5359f09"
     },
@@ -589,23 +597,31 @@
     {
       "id" : "ase144",
       "name" : "Quartz Water Distillation",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-144.png?alt=media&token=74e0c0a3-f1e1-4aa0-aae0-fd3a9797bbe2",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20144%20Quartz%20Water%20Distillation%20Unit.pdf?alt=media&token=4558ffc9-c889-4912-96fa-c90719f9775b"
     },
 
     {
-      "id" : "ase145&146",
-      "name" : "Rotary Vaccum Evaporator",
-      "image" : "",
-      "description" : "Buchi type",
+      "id" : "ase145",
+      "name" : "Rotary Vaccum Evaporator(Buchi type)",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-145.png?alt=media&token=cee70f8d-c97a-4d7d-bb81-1de92f6f079a",
+      "description" : "Apparatus with rotating evaporating flask for vacuum distillation of solvents. Various capacities available.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20145%20%26%20146%20Rotary%20Vaccum%20Evaporator(Buchi%20Type).pdf?alt=media&token=f47af2bf-0e1f-4d21-b8dc-cb23315aa5f1"
+    },
+
+    {
+      "id" : "ase146",
+      "name" : "Rotary Vaccum Evaporator(Buchi type)",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-146.png?alt=media&token=2b965978-0f1a-4061-a3d5-9ad5cef1d58c",
+      "description" : "Apparatus with rotating evaporating flask for vacuum distillation of solvents. Various capacities available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20145%20%26%20146%20Rotary%20Vaccum%20Evaporator(Buchi%20Type).pdf?alt=media&token=f47af2bf-0e1f-4d21-b8dc-cb23315aa5f1"
     },
 
     {
       "id" : "ase147",
       "name" : "Vortex Shaker",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-147.png?alt=media&token=aa0895dd-2716-4db5-a3a3-f46911f47d53",
       "description" : "Test Tube Shaker",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20147%20Vortex%20Shaker(Test%20Tube%20Shaker).pdf?alt=media&token=e2e9f63a-c2f3-41fb-9c7f-d98963583f2c"
     },
@@ -613,7 +629,7 @@
     {
       "id" : "ase148mf",
       "name" : "Muffle Furnace",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-148.png?alt=media&token=d9991ca1-066f-4bf0-b365-5fd979aee467",
       "description" : "Grooved Refractory Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20148%20Muffle%20Furnace%20(Grooved%20Refractory%20Type).pdf?alt=media&token=d5044965-0b58-4d7f-a250-17b2187d4f0a"
     },
@@ -621,7 +637,7 @@
     {
       "id" : "ase148mfr",
       "name" : "Muffle Furnace Rectangular",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-148%20%26%20149.png?alt=media&token=cb54fbdd-fbab-4b80-b5f7-581e03ea36c6",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20148%20Muffle%20Furnace%20Reactangular.pdf?alt=media&token=3b69d3f9-cb54-4cab-bf6b-920444875eb7"
     },
@@ -629,7 +645,7 @@
     {
       "id" : "ase149",
       "name" : "Muffle Furnace",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-148%20%26%20149.png?alt=media&token=cb54fbdd-fbab-4b80-b5f7-581e03ea36c6",
       "description" : "Industrial Grooved Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20149%20Muffle%20Furnace(Industrial%20Grooved%20Type).pdf?alt=media&token=8f535f3a-2230-45ad-9d5d-9214b83c4bf6"
     },
@@ -637,15 +653,15 @@
     {
       "id" : "ase150",
       "name" : "Tissue Floatation Bath",
-      "image" : "",
-      "description" : "Thermostat MIcroprocessor Digital or PID Based",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-150%20Tissue%20Flotation%20Bath.png?alt=media&token=b6448024-05ee-4ff6-9958-88f2b19f32a9",
+      "description" : "Thermostat Microprocessor Digital or PID Based",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20150%20Tissue%20Flotation%20Bath%20(Thermostat%20Microprocessor%20Digital%20or%20PID%20Based).pdf?alt=media&token=8253c9f6-0829-4ad1-a0fe-5adb51e0c72d"
     },
 
     {
       "id" : "ase151h",
       "name" : "Hot Air Oven Universal",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-151%20Hot%20Air.png?alt=media&token=2547c1d2-4db7-4218-addb-c254ae074260",
       "description" : "Memmert Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20151%20Hot%20Air%20Oven%20Universal%20(Memmert%20Type).pdf?alt=media&token=42657d1d-551d-48b2-b60b-e17272817fc3"
     },
@@ -653,7 +669,7 @@
     {
       "id" : "ase151t",
       "name" : "Tissue Floatation bath",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-151.png?alt=media&token=3b83f718-002c-40ab-91f7-299e0aa88110",
       "description" : "Rectangular",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20151%20Tissue%20Flotation%20Bath%20(Rectangular).pdf?alt=media&token=6531295a-8f59-4ccb-80a5-307270604041"
     },
@@ -661,7 +677,7 @@
     {
       "id" : "ase155",
       "name" : "Tray Drying Oven",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE155.png?alt=media&token=6848aab7-bdee-477e-9757-8e3a4a26fd85",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20155%20Tray%20Drying%20Oven.pdf?alt=media&token=e7620ec6-b4a6-4092-bc0a-beca0a13e191"
     },
@@ -669,7 +685,7 @@
     {
       "id" : "ase156",
       "name" : "Waterbath Rectangular Thermostatic",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-156.png?alt=media&token=51ec2df6-fb70-4cdf-8db3-97ee574a1a29",
       "description" : "Double Walled",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20156%20Waterbath%20Rectangular%20Thermostatic(Double%20Walled).pdf?alt=media&token=27ede798-62be-4c91-8bde-ef2459419622"
     },
@@ -677,7 +693,7 @@
     {
       "id" : "ase157",
       "name" : "Water Bath Rectangular",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-157.png?alt=media&token=c686ac66-0878-4f6c-a61f-3238a7578f6e",
       "description" : "Single Walled",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20157%20Water%20Bath%20Rectangular%20(Single%20Wall).pdf?alt=media&token=7e00828c-a2e0-4823-bf0a-d062dff008c5"
     },
@@ -685,7 +701,7 @@
     {
       "id" : "ase158",
       "name" : "WaterBath Digital PID",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-158.png?alt=media&token=46405aec-ab8e-4ee8-bce0-520f18c63fa4",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20158%20Waterbath%20Digital%20PID.pdf?alt=media&token=82e1dbeb-e175-4a22-8f54-882dc075de7e"
     },
@@ -693,7 +709,7 @@
     {
       "id" : "ase159",
       "name" : "High Precision Water Bath",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-159.png?alt=media&token=df7b64dd-de3d-44db-902d-daecd0c40ce1",
       "description" : "With String Arrangement",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20159%20High%20Precision%20Water%20Bath(With%20String%20Arrangement).pdf?alt=media&token=805abe27-746a-477d-9e46-7588b5be5fb7"
     },
@@ -701,7 +717,7 @@
     {
       "id" : "ase160s",
       "name" : "Shaker Water Bath",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-160a.png?alt=media&token=dbf5f9d1-980c-4092-a867-91f5e3d0a6f4",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20160%20Shaker%20Water%20Bath.pdf?alt=media&token=d0376c10-0f5e-41e1-a0f1-ba6a7928d94b"
     },
@@ -709,7 +725,7 @@
     {
       "id" : "ase160w",
       "name" : "Water Bath Shaker Incubator",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-160%20(3).png?alt=media&token=77cb3764-a849-423f-acd6-0fca2c1eeb8e",
       "description" : "Metabolic Shaking Incubator",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20160%20Water%20Bath%20Shaker%20Incubator%20(Metabolic%20Shaking%20Incubator).pdf?alt=media&token=884b6cf7-9bcf-4fc0-8aa3-7f9592db53b9"
     },
@@ -717,7 +733,7 @@
     {
       "id" : "ase164",
       "name" : "Bacteriological Incubator",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-164%20SS.png?alt=media&token=bb2e8784-3aae-4f77-90be-c4ee53bdf41e",
       "description" : "Memmert Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20164%20Bacteriological%20Incubator%20(Memmert%20Type).pdf?alt=media&token=2cfd2d8e-5627-4b20-9ae4-d16777b274d1"
     },
@@ -725,15 +741,15 @@
     {
       "id" : "ase165",
       "name" : "Kahn (Reciprocating) Shaking Machine",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-165.png?alt=media&token=35045068-2552-4f08-aec8-19dd303c8a23",
+      "description" : "Reciprocating shaker for various operations. Adjustable shaking rack for different containers. Motor-driven oscillations. Available in different sizes and speeds.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20165%20Kahn%20(Reciprocating)%20Shaking%20Machine.pdf?alt=media&token=05aa2510-781a-486d-8fc8-c74048a8eced"
     },
 
     {
       "id" : "ase166",
       "name" : "Wrist Action Shaking Machine",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-166.png?alt=media&token=ea179d45-dda2-44d6-bac8-8651f195ed0d",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20166%20Wrist%20Action%20Shaking%20Machine.pdf?alt=media&token=e6973f05-c39e-4088-8004-e4cd3476e052"
     },
@@ -741,7 +757,7 @@
     {
       "id" : "ase167",
       "name" : "Rotary Flasks Shaker",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-167%26168.png?alt=media&token=05a763e3-2848-494b-bda7-4985e4b6866a",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20167%20Rotary%20Flasks%20Shaker.pdf?alt=media&token=69cba8e0-60e0-4018-a215-b6c69232aaf8"
     },
@@ -749,7 +765,7 @@
     {
       "id" : "ase168a",
       "name" : "Automatic Pipette Washer",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-168.png?alt=media&token=5ec7ad12-564d-4c5b-9ca3-cf02043831a7",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20168%20Automatic%20Pipette%20Washer.pdf?alt=media&token=67843ac4-a1e4-4c5d-acf1-4011c86abc08"
     },
@@ -757,7 +773,7 @@
     {
       "id" : "ase168s",
       "name" : "Shaking Machine Rotary Horizontal",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-167%26168.png?alt=media&token=05a763e3-2848-494b-bda7-4985e4b6866a",
       "description" : "Heavy Duty Continuous Rating",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20168%20Shaking%20Machine%20Rotary%20Horizonatal%20(Heavy%20Duty%20Continous%20Rating).pdf?alt=media&token=c18df5b4-31c0-45e0-8d3f-275460b584c2"
     },
@@ -765,7 +781,7 @@
     {
       "id" : "ase169",
       "name" : "VDLR Rotator",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-169.png?alt=media&token=a870ac34-1979-421f-b284-9da7d7603e49",
       "description" : "Rotating Shaker",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20169%20VDLR%20Rotator%20(Rotating%20Shaker).pdf?alt=media&token=9d5f1ce9-0daa-42f2-9d56-549271a60c3d"
     },
@@ -773,7 +789,7 @@
     {
       "id" : "ase171",
       "name" : "Magnetic Stirrer",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-171.png?alt=media&token=cf804b29-575d-4e97-ab8b-c33b9bf731ba",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20171%20Magnetic%20Stirrer.pdf?alt=media&token=580df4c3-3d58-4d38-91e7-4952ca807c99"
     },
@@ -781,7 +797,7 @@
     {
       "id" : "ase172",
       "name" : "Multi Magnetic Stirrer",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-172.png?alt=media&token=ddc0bb5c-1077-45a4-976f-46cbb8c59c0e",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20172%20Multi%20Magnetic%20Stirrer.pdf?alt=media&token=fd6c4539-42b3-45a7-860c-f9e61052d9bc"
     },
@@ -789,7 +805,7 @@
     {
       "id" : "ase173",
       "name" : "Laboratory Blender",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-173.png?alt=media&token=96dbd8c4-d4c4-4ffd-b69e-04d57b8f8198",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20173%20Laboratory%20Blender.pdf?alt=media&token=6f3e0161-c2b1-4266-805f-2942710c94c5"
     },
@@ -797,7 +813,7 @@
     {
       "id" : "ase174",
       "name" : "Laboratory Stirrer",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-174.png?alt=media&token=7e10309c-fa46-4059-ae63-d908be138fe4",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20174%20Laboratory%20Stirrer.pdf?alt=media&token=1cc8ad07-fee6-4ae5-95f0-91eb6524251b"
     },
@@ -805,7 +821,7 @@
     {
       "id" : "ase175",
       "name" : "Sieve Shaker",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-175.png?alt=media&token=4c15573d-4926-49bf-afdf-f1dcd11450c8",
       "description" : "Table Top Model",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20175%20Sieve%20Shaker(Table%20Top%20Model).pdf?alt=media&token=a6f619af-f10e-481c-b40b-3f3cf29a518c"
     },
@@ -821,7 +837,7 @@
     {
       "id" : "ase177",
       "name" : "Rotap Sieve Shaker",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-177.png?alt=media&token=e7da87a1-a6be-4a9b-8676-fd59a863fa2e",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20177%20Rotap%20Sieve%20Shaker.pdf?alt=media&token=f164e197-158e-4f89-9730-a18edc73b4ac"
     },
@@ -829,7 +845,7 @@
     {
       "id" : "ase179",
       "name" : "Medico Centrifuge",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-179.png?alt=media&token=0e569ea9-c5bf-41a7-83c7-dd41a44beef7",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20179%20Medico%20Centrifuge.pdf?alt=media&token=07d0d8e4-32c8-492f-a5e0-ac28bd962746"
     },
@@ -837,7 +853,7 @@
     {
       "id" : "ase180",
       "name" : "Compact Laboratory Centrifuge",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-180.png?alt=media&token=0709256f-54fa-463a-aa32-2a2aa413a93e",
       "description" : "Rectangular Body",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20180%20Compact%20Laboratory%20Centrifuge%20(Reactangular%20Body).pdf?alt=media&token=3d828c19-6ade-43e8-8b37-1273e30f9316"
     },
@@ -845,7 +861,7 @@
     {
       "id" : "ase181",
       "name" : "Table Top general Purpose Centrifuges",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-181.png?alt=media&token=2c196fa7-3db0-4031-93c2-b7271886687b",
       "description" : "Rectangular Body",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20181%20Table%20Top%20general%20Purpose%20Centrifuges%20(Rectangular%20Body).pdf?alt=media&token=74e5a6bc-5dbf-47a8-b3d1-53a5c3872d71"
     },
@@ -853,7 +869,7 @@
     {
       "id" : "ase183",
       "name" : "Willy Grinder",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-183.png?alt=media&token=b58eb910-94a4-4b33-b0d5-1be83418b0bd",
       "description" : "Arthur H. Thomas Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20183%20Willy%20Grinder(Arthur%20H.%20Thomas%20Type).pdf?alt=media&token=bb494e92-267f-4c6b-9938-ee494a6a27be"
     },
@@ -861,7 +877,7 @@
     {
       "id" : "ase184",
       "name" : "Ball Mill",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-184.png?alt=media&token=bf3f67a4-bf07-4ebc-81e5-0a1ace6b450c",
       "description" : "Lab Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20184%20Ball%20Mill(Lab%20Type).pdf?alt=media&token=a352643b-3093-4d86-9b94-019c49237846"
     },
@@ -869,7 +885,7 @@
     {
       "id" : "ase185",
       "name" : "Electric Agate Mortar & Pestile",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-185.png?alt=media&token=33916f98-3f05-446c-8920-4232e3300760",
       "description" : "Fisher Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20185%20Electric%20Agate%20Mortar%20%26%20Pestile(Fisher%20Type).pdf?alt=media&token=9033e9a5-b59e-46a5-bf39-f04fb1cb4e1d"
     },
@@ -877,7 +893,7 @@
     {
       "id" : "ase186",
       "name" : "Tissue Homogenizer",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-186.png?alt=media&token=33895a3f-f079-41bc-a447-d9d59cdb070d",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20186%20Tissue%20Homogenizer.pdf?alt=media&token=aa78824a-5b14-41dd-9491-f188539a7e0c"
     },
@@ -885,7 +901,7 @@
     {
       "id" : "ase187",
       "name" : "Tissue Homogenizer",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-187.png?alt=media&token=2a1ae5ee-55b6-4ddd-b9a0-1e4b9947fc03",
       "description" : "Hand Operated of 6inch and 12inch. Used for tissue Homogenization of organs from small animals",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20187%20Tissue%20Homogenizer%20(Hand%20Operated%20of%206%20inch%20and%2012%20inch.%20Used%20for%20tissue%20Homogenization%20of%20organs%20from%20small%20animals).pdf?alt=media&token=5620825b-c57a-4542-a1e8-669880fc7585"
     },
@@ -893,7 +909,7 @@
     {
       "id" : "ase188",
       "name" : "Rectangular Hot Plate",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-188.png?alt=media&token=326adc1f-3507-4211-ba5b-977a4ac844f4",
       "description" : "With Cast Iron Top",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20188%20Rectangular%20Hot%20Plate(With%20Cast%20Iron%20Top).pdf?alt=media&token=15dc6db0-2038-4d3c-b483-19bbe9bb4bb0"
     },
@@ -901,7 +917,7 @@
     {
       "id" : "ase189m",
       "name" : "Mini Centrifuge",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-189%20(2).png?alt=media&token=87d19db5-9208-4f72-907a-28099ccada0c",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20189%20Mini%20Centrifuge.pdf?alt=media&token=276f5b2c-4f15-4aa7-aac9-915453edafce"
     },
@@ -909,15 +925,15 @@
     {
       "id" : "ase189r",
       "name" : "Rectangular Hot Plate",
-      "image" : "",
-      "description" : "With S.S.Top",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-189.png?alt=media&token=bf6bf5e3-5bba-4b86-8814-5fd5fa5d57b9",
+      "description" : "Deluxe hot plate with stainless steel plate for continuous heating up to 450°C. Solid-state temperature control. Available in different sizes and ratings.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20189%20Rectangular%20Hot%20Plate(With%20S.S.%20Top).pdf?alt=media&token=8ae5e8cb-20a0-492d-ab6b-9a006bcfe8b1"
     },
 
     {
       "id" : "ase190",
       "name" : "Hot Plate Round (With Cast Iron Type)or Hot Plate Round Coil",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-190.png?alt=media&token=f7f3d394-a729-44c9-afd1-d50caa656381",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20190%20Hot%20Plate%20Round%20(With%20Cast%20Iron%20Top)%20or%20Hot%20Plate%20Round%20Coil%20Type.pdf?alt=media&token=1e62d4cb-8ee6-4c4b-b670-c3548a5ef668"
     },
@@ -925,7 +941,7 @@
     {
       "id" : "ase192",
       "name" : "Melting Point Apparatus",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-192.png?alt=media&token=c91092cf-759f-421f-80f4-8a2b1de631ab",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20192%20Melting%20Point%20Apparatus.pdf?alt=media&token=6fd015d7-34fe-40f8-8815-993596ea8a68"
     },
@@ -933,7 +949,7 @@
     {
       "id" : "ase196",
       "name" : "Colony Counter",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-132%20Fume%20Hood%20(2).png?alt=media&token=6b6b3db6-38a6-4e6b-9128-7ed751b70d62",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20196%20Colony%20Counter.pdf?alt=media&token=9d349319-4851-4f97-a3a4-5f2768256a14"
     },
@@ -941,7 +957,7 @@
     {
       "id" : "ase197",
       "name" : "Colony Counter",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-132%20Fume%20Hood%20(2).png?alt=media&token=6b6b3db6-38a6-4e6b-9128-7ed751b70d62",
       "description" : "Digital Electronic Model",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20197%20Colony%20Counter%20(Digital%20Electronic%20Model).pdf?alt=media&token=e4b800bd-fba4-4acb-8188-7d0af795a821"
     },
@@ -949,7 +965,7 @@
     {
       "id" : "ase2",
       "name" : "Pathological Monocular Microscope Optics",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-2.png?alt=media&token=b1ee97a8-dfda-46d7-b930-008c3810a137",
       "description" : "ISI 4321-1967",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202%20Pathalogical%20Monocular%20Microscope%20Optics%20(ISI%204381-1967).pdf?alt=media&token=fdae54a2-8d0c-456a-9930-c9e314daa5d5"
     },
@@ -957,7 +973,7 @@
     {
       "id" : "ase2005",
       "name" : "Dissecting Instruments",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%202005.png?alt=media&token=f4652ecc-6d51-456b-abbc-f9b2104adff2",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202005%20Dissecting%20Instruments.pdf?alt=media&token=65c61550-63de-4157-ab93-cc16f53f1ea7"
     },
@@ -1070,7 +1086,7 @@
     {
       "id" : "ase2014r",
       "name" : "Rotarod Apparatus",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%202005.png?alt=media&token=f4652ecc-6d51-456b-abbc-f9b2104adff2",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202014%20Rotarod%20Apparatus.pdf?alt=media&token=8c88e8a8-b41d-47a1-bda6-b90440418de9"
     },
@@ -1079,7 +1095,7 @@
     {
       "id" : "ase2016a",
       "name" : "Analgesiomeer",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%202016.png?alt=media&token=3c599c4a-7679-48ef-a1b5-a5f88261fdb9",
       "description" : "Hot and Cold Plate Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202016%20Analgesiomeer%20(Hot%20and%20Cold%20Plate%20Type).pdf?alt=media&token=d66e57f4-b948-4c8a-9418-afab442acbcc"
     },
@@ -1190,7 +1206,7 @@
     {
       "id" : "ase2106",
       "name" : "Bed Intensive Care Unit",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FALPHA%20Bed%20Intensive%20Care%20Unit.png?alt=media&token=4398266d-b662-4829-adfe-c1b416cf9bb9",
       "description" : "Mechanically Operated with height adjustable operated by rotating handles",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202106%20Bed%20Intensive%20Care%20Unit%20(Mechanically%20Operated%20with%20Height%20adjustable%20operated%20by%20rotating%20handles).pdf?alt=media&token=b233a740-a6de-4f00-bdb6-7e6121da065a"
     },
@@ -1198,7 +1214,7 @@
     {
       "id" : "ase210r",
       "name" : "Rectangular-Round Specimen Jars with Lid",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%20RECTANGULARROUND%20SPECIMEN%20JARS%20WITH%20LID.png?alt=media&token=cf77a929-f40f-4b46-8f6f-735a9a997968",
       "description" : "30x30cm",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20211R%20Rectangular%20-%20Round%20Specimen%20Jars%20with%20Lid%20(30%20x%2030%20cm).pdf?alt=media&token=1167f29b-8352-4d14-a81f-00a19708d3bc"
     },
@@ -1599,17 +1615,9 @@
     },
 
     {
-      "id" : "ase2891b",
-      "name" : "Band saw Cutting Machine",
-      "image" : "",
-      "description" : "",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202891%20Band%20Saw%20Cutting%20Machine.pdf?alt=media&token=4d89cd20-bf59-495d-b428-fcdf750aed6a"
-    },
-
-    {
       "id" : "ase2891m",
       "name" : "Meat Cutting Machine",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%20289.png?alt=media&token=1bd35818-fb87-468a-8f36-848c7fce26db",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202891%20Meat%20Cutting%20Machine.pdf?alt=media&token=44e9ea3d-b5c7-4401-8fdf-24bd1d49d14d"
     },
@@ -1617,7 +1625,7 @@
     {
       "id" : "ase2894",
       "name" : "Embaling Machine",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%202894.png?alt=media&token=01e34f63-afca-4cf6-865f-75967876c959",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202894%20Embaling%20Machine.pdf?alt=media&token=e3dd38ae-86df-46ee-bc00-aa364a31618c"
     },
@@ -1678,7 +1686,7 @@
     {
       "id" : "ase31",
       "name" : "Herenders Skin Fold Caliper",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%2031.png?alt=media&token=e2623e21-9fa7-4fd1-8ebd-e701af97cb89",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%2031%20Herenders%20Skin%20Fold%20Caliper.pdf?alt=media&token=25a20434-e48a-49c8-b898-b654ee460247"
     },
@@ -1739,7 +1747,7 @@
     {
       "id" : "ase35",
       "name" : "Milk Hydrometers",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-%2035.jpg?alt=media&token=ec2c113c-53e4-4961-bc12-170d7627c321",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%2035%20Milk%20Hydrometers.pdf?alt=media&token=a959457d-d1bd-4679-9f48-aad9a018212f"
     },
@@ -1779,7 +1787,7 @@
     {
       "id" : "ase",
       "name" : "Height Measuring Stand",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-%20Height%20Measuring%20Stand.png?alt=media&token=3c5d4629-f6be-475e-8654-a183beb99ac6",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20Height%20Measuring%20Stand.pdf?alt=media&token=0ccd6d46-720d-4f86-8fc5-1d848ed5c261"
     },
