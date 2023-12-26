@@ -966,7 +966,7 @@
       "id" : "ase2",
       "name" : "Pathological Monocular Microscope Optics",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-2.png?alt=media&token=b1ee97a8-dfda-46d7-b930-008c3810a137",
-      "description" : "ISI 4321-1967",
+      "description" : "ISI 4321-1967 : Microscope with 10x eyepiece, 4 objectives, mechanical stage, and halogen lamp.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202%20Pathalogical%20Monocular%20Microscope%20Optics%20(ISI%204381-1967).pdf?alt=media&token=fdae54a2-8d0c-456a-9930-c9e314daa5d5"
     },
 
@@ -974,23 +974,23 @@
       "id" : "ase2005",
       "name" : "Dissecting Instruments",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%202005.png?alt=media&token=f4652ecc-6d51-456b-abbc-f9b2104adff2",
-      "description" : "",
+      "description" : "Complete post-mortem instrument set in a stainless steel box for precise, efficient, and accurate autopsy operations.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202005%20Dissecting%20Instruments.pdf?alt=media&token=65c61550-63de-4157-ab93-cc16f53f1ea7"
     },
 
     {
       "id" : "ase200cc",
-      "name" : "Sheetmetal Deset Coolers",
-      "image" : "",
-      "description" : "",
+      "name" : "Sheetmetal Desert Coolers",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-200CC.png?alt=media&token=1cd2aa8a-dd7e-4b90-9843-b9a51a7d4f47",
+      "description" : "Compact design, powerful motor, auto swing louvers, energy-efficient. Ideal for hot summer months.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20200CC%20SheetMetal%20Desert%20Coolers.pdf?alt=media&token=daebef39-90cd-4b63-8450-7a2a9d9475c1"
     },
 
     {
       "id" : "ase200cp",
       "name" : "Submersible Pump",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-200CP.png?alt=media&token=f87a25ea-7b0d-4d3c-9671-71d3ac8faa58",
+      "description" : "Submersible, noiseless, rust-proof, compact, low consumption, continuous rotary, easy maintenance, easy installation, operates at low voltages.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20200CP%20Submersible%20Pump.pdf?alt=media&token=6b7c0aeb-ffec-4415-976a-d42996906492"
     },
 
