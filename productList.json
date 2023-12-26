@@ -1245,7 +1245,7 @@
 
     {
       "id" : "ase212",
-      "name" : "Kjedahl Distillation and Digestion Combines Units",
+      "name" : "Kjedahl Distillation and Digestion Combined Units",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-212.png?alt=media&token=900a3b23-939e-42cf-a783-10d85b961308",
       "description" : " Extraction Unit with 3-Test and 6-Test options, suitable for 50-500ml flasks. Works on 220/230V AC, with or without glass parts and clamps.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20212%20Kjeldahl%20Distillation%20and%20Digestion%20Combined%20Units.pdf?alt=media&token=077ccada-18a9-4be9-9b2b-b935cdab02b7"
@@ -1290,7 +1290,7 @@
       "id" : "ase217p",
       "name" : "Paper Electophorsis Apparatus",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-217.png?alt=media&token=9845a2ba-cf74-4434-b17b-a2bbdbb65379",
-      "description" : "",
+      "description" : "Paper Electrophoresis Apparatus for research labs. Transparent acrylic with platinum electrodes. Accommodates strips or sheets for diverse applications.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20217%20Paper%20Electrophoresis%20Apparatus.pdf?alt=media&token=683bf0e7-e3d2-4692-b6dd-c9e592d96a7d"
     },
 
@@ -1333,7 +1333,7 @@
       "id" : "ase229",
       "name" : "UV Fluorescence Analysis Cabinet",
       "image" : "",
-      "description" : "",
+      "description" : "For visualization of test objects under U.V. tubes with long wave and short wave length (365 and 254 n.m.) as desired",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20229%20UV%20Fluorescence%20Analysis%20Cabinet.pdf?alt=media&token=76c2e00f-48c5-4d22-b411-3abe41d4289b"
     },
 
@@ -1349,16 +1349,16 @@
 
     {
       "id" : "ase231",
-      "name" : "Nlood Cell counter (Clay Adam Type)",
+      "name" : "Blood Cell counter (Clay Adam Type)",
       "image" : "",
-      "description" : "",
+      "description" : "Counter for precise cell counting. Available with 5 or 8 keys, including a totalizer. Bell signals every hundred counts. Includes storage case.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20231%20Nlood%20Cell%20counter%20(Clay%20Adam%20Type).pdf?alt=media&token=f933f542-95a1-4a35-83b5-a7cd26b24e56"
     },
 
 
     {
       "id" : "ase2318",
-      "name" : "Dead Body Platform Scaeles with Heavy Duty Platform",
+      "name" : "Dead Body Platform Scales with Heavy Duty Platform",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-2318.png?alt=media&token=e249a8ff-c2b4-4bfd-a2bd-b9e9a92bbe7c",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202318%20Dead%20Body%20Platform%20Scales%20with%20Heavy%20Duty%20Platform.pdf?alt=media&token=1aec0880-6355-4bc3-9d4f-7d77655b7145"
@@ -1367,9 +1367,9 @@
 
     {
       "id" : "ase232",
-      "name" : "Thin Layer Chromatography kit",
+      "name" : "Thin Layer Chromatography kit (TLC Kit)",
       "image" : "",
-      "description" : "TLC kit",
+      "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20232%20Thin%20Layer%20Chroatography%20kit%20(TLC%20kit).pdf?alt=media&token=16b6887e-153d-46a4-803d-b07007dace2c"
     },
 
