@@ -43,7 +43,7 @@
       "id": "ase1015",
       "name": "Ultra Sonic Cleaner",
       "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fultrasoniccleaner.png?alt=media&token=ecf11ed0-b694-4a6b-9401-b36acfb9fc1a",
-      "description": "",
+      "description": "Ultrasonic cleaner equipped with digital timer, microprocessor control for consistent cleaning, and safety features such as high-temperature alarm and energy-saving sleep mode.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201015%20Ultra%20Sonic%20Cleaner.pdf?alt=media&token=31925c1a-03ea-4c2b-bf00-f70c9a5ee594"
     },
 
@@ -59,7 +59,7 @@
       "id" : "ase101w",
       "name" : "Wind Vane",
       "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-101%20W.png?alt=media&token=860df854-825d-4554-85d9-16611fe22ee6",
-      "description" : "",
+      "description" : "Range: 0.0-45.0 m/sec. 00 -140.0 Km / hours, 0-880 feets/min., 0.0 - 88.0 Knots / hours",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101W%20Wind%20Vane.pdf?alt=media&token=5c8c39f2-80bc-4e7e-85d9-53f1f23015ff"
     },
 
@@ -83,7 +83,7 @@
       "id" : "ase102c",
       "name" : "Chloroscope",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-102%20C.png?alt=media&token=651f7219-ad4f-49de-94ec-231e4a21943f",
-      "description" : "Appartus for measuring quantitive residual chlorine in drinking water",
+      "description" : "Appartus for measuring quantitive residual chlorine in drinking water Models: 1ppm/4 readings, 2ppm/6 readings. Compact, user-friendly, includes test tubes, brush, o-tolodine reagent.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20102C%20Chloroscope%20(Apparatus%20for%20measuring%20quantitative%20residual%20chlorine%20in%20drinking%20water).pdf?alt=media&token=ca075d73-810f-4ea7-8a50-8bbd52a94539"
     },
 
@@ -99,7 +99,7 @@
       "id" : "ase103b",
       "name" : "Orbital Shaking Incubators",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-104.png?alt=media&token=6e15c689-b8bb-4f93-a3bf-34c834ac9b2e",
-      "description" : "",
+      "description" : "Stainless steel body, transparent lid, variable speed, digital RPM display, temperature control, various sizes. Optional accessories available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20104%20Orbital%20Shaking%20Incubators.pdf?alt=media&token=a37eed36-ccf5-42c9-80eb-7aeddbbf25b6"
     },
 
@@ -205,15 +205,15 @@
       "id" : "ase10a2",
       "name" : "Human Slides Histology",
       "image" : "",
-      "description" : "",
+      "description" : "Collection of slides for human histology studies, including various tissues and organs. Available upon request. Browse the Catalogue",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%2010A2%20Human%20Slides%20Histology.pdf?alt=media&token=7740261e-bc94-4cff-8dd1-f4cdb33767f8"
     },
 
     {
       "id" : "ase110",
       "name" : "Laboratory Reagent Refrigerator",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-110.png?alt=media&token=a61737bc-3a5b-410f-8131-0b2fc3be9a32",
+      "description" : "Vertical model, microprocessor-controlled double-door refrigerator with a temperature range of 2°C to 8°C. Metallic construction, non-transparent double doors, automatic defrosting, and air-cooling system. Alarm system included.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20110%20Laboratory%20Reagent%20Refrigerator.pdf?alt=media&token=dfc9dbd7-3eea-4d58-a9a8-660bfaf31a8c"
     },
 
@@ -822,7 +822,7 @@
       "id" : "ase175",
       "name" : "Sieve Shaker",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-175.png?alt=media&token=4c15573d-4926-49bf-afdf-f1dcd11450c8",
-      "description" : "Table Top Model",
+      "description" : "Tabletop models with a heavy casted base, FHP motor, and capacity for six sieves of 6 or 8 inches diameter. Variable speed regulator and optional 0-60 minutes timer. Operates on 220/230 volts AC supply.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20175%20Sieve%20Shaker(Table%20Top%20Model).pdf?alt=media&token=a6f619af-f10e-481c-b40b-3f3cf29a518c"
     },
 
@@ -830,7 +830,7 @@
       "id" : "ase176",
       "name" : "Gyratory Sieve Shaker",
       "image" : "",
-      "description" : "with p-erfect-motor",
+      "description" : "Gyratory sieve shaker with perfect/motor for dry analysis, 1/4 HP motor, accommodates 6 to 8 inches sieves. Optional 0-60 minutes timer.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20176%20Gyratory%20Sieve%20Shaker(with%20perfect-motor).pdf?alt=media&token=c0ac0a14-e701-424f-9efe-7ff8714c4e75"
     },
 
@@ -1190,7 +1190,7 @@
       "id" : "ase204",
       "name" : "Display Bos For Skeleton",
       "image" : "",
-      "description" : "",
+      "description" : "Aluminium, cream finish, unbreakable glass, double-sided, LED illumination, H 8' x W 5' x D 1.5'.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20204%20Display%20Bos%20For%20Skeleton.pdf?alt=media&token=66da5acf-904a-4424-bc9a-f56ccbb9c326"
     },
 
@@ -1212,9 +1212,9 @@
 
     {
       "id" : "ase210",
-      "name" : "Kjedahl distillation Units",
+      "name" : "Kjedahl Distillation Units",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-210.png?alt=media&token=a513d1df-5895-41b1-b345-f9681e3eb620",
-      "description" : "",
+      "description" : "ASE-214 Distillation Apparatus, suitable for 300ml and 500ml flasks, with condenser rack. Available in 3-test and 6-test mantle types. Operates on 220/230V AC.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20210%20Kjeldahl%20Distillation%20Units.pdf?alt=media&token=0288cdab-8ac7-409d-8162-6846062c4247"
     },
 
@@ -1247,7 +1247,7 @@
       "id" : "ase212",
       "name" : "Kjedahl Distillation and Digestion Combines Units",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-212.png?alt=media&token=900a3b23-939e-42cf-a783-10d85b961308",
-      "description" : "",
+      "description" : " Extraction Unit with 3-Test and 6-Test options, suitable for 50-500ml flasks. Works on 220/230V AC, with or without glass parts and clamps.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20212%20Kjeldahl%20Distillation%20and%20Digestion%20Combined%20Units.pdf?alt=media&token=077ccada-18a9-4be9-9b2b-b935cdab02b7"
     },
 
@@ -1315,7 +1315,7 @@
       "id" : "ase222v",
       "name" : "Vertical Slab Electrophoresis Apparatus",
       "image" : "",
-      "description" : "fixed height",
+      "description" : "Perspex electrophoresis unit includes comb, spacers, glass plates, clamps, electrode terminals, and Platinum electrodes. Option for adjustable height with stainless steel rods.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20222%20Vertical%20Slab%20Electrophoresis%20Apparatus%20(fixed%20Height).pdf?alt=media&token=386474b3-2056-447c-9b61-a7e38877db1a"
     },
 
@@ -1341,7 +1341,7 @@
     {
       "id" : "ase230",
       "name" : "UV Lamp",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-218.png?alt=media&token=1d1c8454-a617-4ad3-90da-6df3bd5a166f",
       "description" : "Box Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20230%20UV%20Lamp%20(Box%20Type).pdf?alt=media&token=90879b59-24db-4a83-a583-d3a3fc4898e1"
     },
@@ -1349,9 +1349,9 @@
 
     {
       "id" : "ase231",
-      "name" : "Nlood Cell counter",
+      "name" : "Nlood Cell counter (Clay Adam Type)",
       "image" : "",
-      "description" : "Clay Adam Type",
+      "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20231%20Nlood%20Cell%20counter%20(Clay%20Adam%20Type).pdf?alt=media&token=f933f542-95a1-4a35-83b5-a7cd26b24e56"
     },
 
@@ -1396,16 +1396,16 @@
       "id" : "ase237",
       "name" : "Digital Conductivity Meter",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-237.png?alt=media&token=b26e22d0-9ec1-4d65-9096-33b0b7342359",
-      "description" : "",
+      "description" : "LED display, Conductance range: 0.1 micro ohm to 1000 mmohm, Resistance range: 0.1 ohm to 2 M ohm, Accuracy: ±0.5% of range + 1 digit, Power Supply: 220/230V AC. Optional accessories available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20237%20Digital%20Conductivity%20Meter.pdf?alt=media&token=820da69a-d47e-406f-98b3-3b083f5b23de"
     },
 
 
     {
       "id" : "ase238",
-      "name" : "Digital TDS and Conductivity Meter",
+      "name" : "Digital TDS and Conductivity Meter (Combined)",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-238.png?alt=media&token=b5e46d1b-3cd9-4364-9e6e-31d74d2a5e8d",
-      "description" : "Combined",
+      "description" : "4-digit LED display. Conductance range: 0 to 1000 mohm. T.D.S. range: 0 to 1000 PPT. Resolution: 0.1 PPM. Accuracy: ±0.5%. Includes T.D.S./Conductivity Cell.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20238%20Digital%20TDS%20and%20Conductivity%20Meter%20(Combined).pdf?alt=media&token=b36d438e-7c3a-45ec-b6ee-9f235098a56e"
     },
 
@@ -1423,7 +1423,7 @@
       "id" : "ase239s",
       "name" : "Steel Racks",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-239.png?alt=media&token=53ecdfe1-0dd5-435d-8683-22a74ca94830",
-      "description" : "",
+      "description": "7 shelves, adjustable top shelf, slotted angles, corner plates, 2\" iron strips, plastic feet (L and T sections), grey/olive green color, red oxide paint, dimensions: 90\" x 30\" x 20\".",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20239%20Steel%20Racks.pdf?alt=media&token=09dcfff8-b89e-4841-8e38-e2efd393df13"
     },
 
@@ -1431,7 +1431,7 @@
       "id" : "ase240",
       "name" : "Stainless Steel Large Almirah",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-240.png?alt=media&token=abca828e-5c67-4d86-95ef-1cdcb26574cf",
-      "description" : "",
+      "description" : "Large steel almirah with cream-colored paint. Godrej lock, three partitions, four compartments, one 24-inch separation with middle partition. Size: 72 x 34 x 18 inches with a 5-inch stand.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20240%20Stainless%20Steel%20Large%20Almirah.pdf?alt=media&token=bba0e92a-99e4-4039-a718-12e191ee9d15"
     },
 
@@ -1439,31 +1439,31 @@
       "id" : "ase241",
       "name" : "Stainless Steel Locker",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-241.png?alt=media&token=d56e238a-8b58-4d57-8626-c7bc3bdcb08d",
-      "description" : "",
+      "description" : "Cream-colored paint, six lockers, eight compartments each with external lock facility, 20 gauge sheet, 5-inch stand. Size: 18 x 18 x 18 inches.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20241%20Stainless%20Steel%20Locker.pdf?alt=media&token=d0aa3822-5fae-49fa-a39a-8ea4b8a355e7"
     },
 
     {
       "id" : "ase245",
-      "name" : "Precision Rotary Microtome",
+      "name" : "AO Spencer Type Precision Rotary Microtome",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-245.png?alt=media&token=6390a932-20a3-4363-bef1-d682437125c3",
-      "description" : "AO Spencer Type",
+      "description" : "Features CAM DRIVE SYSTEM, adjustable cutting angle, object clamp for specimens up to 32 x 27 mm, and included knife, block holders, lubrication oil, and dust cover. Customizable options.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20245%20Precision%20Rotary%20Microtome%20(AO%20Spencer%20Type).pdf?alt=media&token=6703c084-30f8-4e44-abf7-bb7c11437951"
     },
 
     {
       "id" : "ase246",
-      "name" : "Precision Rotary Microtome",
+      "name" : "Lipshawr Type Precision Rotary Microtome",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-246.png?alt=media&token=271a85d1-f632-4045-81e4-674e584e4652",
-      "description" : "Lipshawr Type",
+      "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20246%20Precision%20Rotary%20Microtome%20(Lipshawr%20Type).pdf?alt=media&token=489b18f1-13e7-4e74-83fe-338429b31257"
     },
 
     {
       "id" : "ase247",
-      "name" : "Precision Rotary Microtome",
+      "name" : "Erma Japan Type Precision Rotary Microtome",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-247.png?alt=media&token=465d0050-828c-407a-9cdc-1ce26d8fdc51",
-      "description" : "Erma Japan Type",
+      "description" : "Includes knife, block holders, honing stone, lubrication oil, and dust cover. Customizable options available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20247%20Precision%20Rotary%20Microtome%20(ERMA%20Japan%20Type).pdf?alt=media&token=2239c9b6-64f7-41bc-9e05-47d51091d112"
     },
 
@@ -1471,7 +1471,7 @@
       "id" : "ase248",
       "name" : "Freezing Microtome",
       "image" : "",
-      "description" : "Erma Japan Type",
+      "description" : "Erma Japan Type microtome for frozen sections, table model, section thickness 5-40 microns. Supplied with freezing attachment, knife, and honing plate. Optional accessories available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20248%20Freezing%20Microtome%20(Erma%20Japan%20Type).pdf?alt=media&token=ee756a63-4606-4456-ae2f-7ecad72b0b64"
     },
 
@@ -1517,7 +1517,7 @@
 
     {
       "id" : "ase252a",
-      "name" : "Stanning rack for Slide BUlk Staining Hangers",
+      "name" : "Stanning rack for Slide Bulk Staining Hangers",
       "image" : "",
       "description" : "Height 5 cm x length 40 cm",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20252a%20Stanning%20Rack%20for%20slide%20bulk%20staining%20Hangers.pdf?alt=media&token=45005fbb-216b-46d4-95de-d33d396081e5"
@@ -1695,9 +1695,9 @@
 
     {
       "id" : "ase38",
-      "name" : "Wet Bulb-DRy Bulb Hygrometer",
+      "name" : "Wet Bulb-Dry Bulb Hygrometer",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fase%2038.jpg?alt=media&token=7df6edba-0db1-4dc2-80de-87451f020438",
-      "description" : "",
+      "description" : "Measures relative humidity. Two thermometers, one with a wet sock for evaporative cooling. Plastic case, glass reservoir, wall mount. Size: 10\" x 4\". Instructions included.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%2038%20Wet%20Bulb%20-%20Dry%20Bulb%20Hygrometer.pdf?alt=media&token=d0dbb445-3710-44b6-8b1b-24c2936f4638"
     },
 
@@ -1705,7 +1705,7 @@
       "id" : "ase602",
       "name" : "Overhead Projector",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-602.png?alt=media&token=cb92102b-74ad-4043-ba4a-f712dbddeb0d",
-      "description" : "",
+      "description" : "Compact AV tool for effective teaching. Write, draw on wall or screen. Eliminates chalk and blackboard. 350 mm x 425 mm x 252 mm.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20602%20Overhead%20Projector.pdf?alt=media&token=27faf5eb-b16a-41cf-af1d-4583746b0e33"
     },
 
@@ -1713,7 +1713,7 @@
       "id" : "ase7301",
       "name" : "Elevated Plus Maze for Rats/Mice",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-7301.png?alt=media&token=65c7cd33-7048-4179-955b-728b9222d399",
-      "description" : "Sturdy Apparatus made of wood-sstainless steel",
+      "description" : "Sturdy Apparatus made of wood-stainless steel",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%207301%20Elevated%20Plus%20Maze%20for%20Rats-Mice%20(Sturdy%20Apparatus%20made%20of%20wood%20-%20stainless%20steel).pdf?alt=media&token=0a104c07-eb87-4ea1-9677-3563f0ef1538"
     },
 
@@ -1768,7 +1768,7 @@
     {
       "id" : "lm105",
       "name" : "Autopsy Workstation",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-2012%20(3).png?alt=media&token=1a56d95b-ad12-4589-9a35-d212f02be227",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/Autopsy%20Workstation.pdf?alt=media&token=c582d8d4-2fce-427c-afc9-1cae3fd8b84a"
     },
