@@ -42,7 +42,7 @@
     {
       "id": "ase1015",
       "name": "Ultra Sonic Cleaner",
-      "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1015.png?alt=media&token=056e84c9-a824-4413-9325-377762076909",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fultrasoniccleaner.png?alt=media&token=ecf11ed0-b694-4a6b-9401-b36acfb9fc1a",
       "description": "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201015%20Ultra%20Sonic%20Cleaner.pdf?alt=media&token=31925c1a-03ea-4c2b-bf00-f70c9a5ee594"
     },
@@ -74,8 +74,8 @@
     {
       "id" : "ase1025",
       "name" : "DI Electrical Tube Sealer",
-      "image" : "",
-      "description" : "ISO 9001-2000 WHO-GMP Certified",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FdiElectricTubeSealer.png?alt=media&token=34f48965-ef39-422a-a84a-56af6f805dca",
+      "description" : "Compact, certified ISO 9001:2000, WHO-GMP sealer for 6mm tubes. No warm-up, hermetic seal in 1.5s. Automated, intelligent sensing, 5.7kg.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201025%20DI%20Electrical%20Tube%20Sealer%20(ISO%209001%20-%202000%20WHO%20-%20GMP%20Certified).pdf?alt=media&token=d00264ec-a8e7-4088-9113-7e98bce71b7c"
     },
     
@@ -357,7 +357,7 @@
     {
       "id" : "ase1201",
       "name" : "Urinometers",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1201.png?alt=media&token=04dcaf42-9af0-491a-9a6e-5d85b7f5e3ae",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FUrinometer.jpg?alt=media&token=6aea46fd-41f5-4b6d-98e3-93472ceac8a4",
       "description" : "Urinometers measure urine specific gravity with a glass float, weight, and calibrated stem.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201201%20Urinometers.pdf?alt=media&token=b15cac14-24b5-4c6b-ba31-e8d5592f58b0"
     },
