@@ -27,14 +27,14 @@
     {
       "id": "ase101",
       "name": "BOD Incubator",
-      "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-%20RECTANGULARROUND%20SPECIMEN%20JARS%20WITH%20LID.png?alt=media&token=cf77a929-f40f-4b46-8f6f-735a9a997968",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-101.png?alt=media&token=e58d738e-4487-4a1c-845b-c47e61208ef2",
       "description": "Low Temperature",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101%20Incubator%20(Low%20Temp).pdf?alt=media&token=66fcd62c-b3d9-44b2-9f2f-651d53c8927b"
     },
     {
       "id" : "ase101a",
       "name" : "Incubator",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-101.png?alt=media&token=e58d738e-4487-4a1c-845b-c47e61208ef2",
       "description" : "Low Temperature",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101%20Incubator%20(Low%20Temp).pdf?alt=media&token=66fcd62c-b3d9-44b2-9f2f-651d53c8927b"
     },
