@@ -1187,7 +1187,7 @@
       "description" : "Lister Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202037%20Perimeter%20(Lister%20Type).pdf?alt=media&token=d91e34ed-ba71-47bb-bb80-e310d6394d9f"
     },
-    
+
     {
       "id" : "ase209a",
       "name" : "Heating Mantle",
@@ -1485,14 +1485,6 @@
     },
 
     {
-      "id" : "ase251a",
-      "name" : "Automatic Knife Sharpener",
-      "image" : "",
-      "description" : "AO Spencer Type",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20251%20Automatic%20Knife%20Sharpener%20(AO%20Spencer%20type).pdf?alt=media&token=150ded1c-24f7-4b40-8122-917e2ee06da2"
-    },
-
-    {
       "id" : "ase251c",
       "name" : "Cabinet For Slide Boxes",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-251.png?alt=media&token=cb3d2558-920a-4e5f-af95-9b5e5e77431b",
@@ -1597,16 +1589,6 @@
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%203021%20Chemical%20Balance.pdf?alt=media&token=4735a123-fe93-4d6f-9b35-25286614f79c"
     },
-
-
-    {
-      "id" : "ase3022",
-      "name" : "Balance Earanger",
-      "image" : "",
-      "description" : "Capacity 6 Kg sensitivity 1/5 gms. ",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%203022%20Balance%20Earanger.pdf?alt=media&token=edd9e12f-e073-463b-9f7e-ec7d66a2ea1b"
-    },
-
 
     {
       "id" : "ase3023",
@@ -1737,7 +1719,7 @@
     {
       "id" : "lm103",
       "name" : "Hepa Absolute Filter",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Ffilter.jpg?alt=media&token=8ef3e367-885b-42f9-b705-e0d25c1bd9de",
       "description" : "99.97% Efficiency For creating highly clean environment even better than Class100",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/Apha%20Hepa%20Absolute%20Filter%20(99.97%25%20Efficiency%20For%20creating%20highly%20clean%20enviroment%20even%20better%20than%20Class100).pdf?alt=media&token=65bd9fe9-f02b-45de-8fad-ffdffb0f5a78"
     },
