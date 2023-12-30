@@ -9,14 +9,6 @@
     },
 
     {
-      "id": "ase1009",
-      "name": "Urin Analyzer",
-      "image": "",
-      "description": "Automated Urin strip analyzer ISO 9001 - 2000 WHO - GMP Certified",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201009%20Urin%20Analyzer%20(Automated%20Urin%20Strip%20Analyzer%20ISO%209001%20-%202000%20WHO%20-%20GMP%20Certified).pdf?alt=media&token=4f8f105c-bf0d-4db2-89a0-830900d738c0"
-    },
-
-    {
       "id": "ase100h",
       "name": "Horrok's Apparatus",
       "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-100H.png?alt=media&token=cab0f350-8bff-40af-b29e-47d9a76a6d56",
@@ -44,7 +36,7 @@
       "id" : "ase101a",
       "name" : "Incubator",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-164.jpg?alt=media&token=81bd8e14-4fa8-4ca7-83fa-0d9ade5ae9d5",
-      "description" : "Low Temperature",
+      "description" : "Versatile low temp indicator for BOD, triple-walled cabinet, castor-mounted, temp range 5-60°C, with circulation, thermostat, timer, lamp.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101%20Incubator%20(Low%20Temp).pdf?alt=media&token=66fcd62c-b3d9-44b2-9f2f-651d53c8927b"
     },
 
@@ -60,7 +52,7 @@
       "id": "ase1016",
       "name": "BB Dry Bath",
       "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1016BB.png?alt=media&token=c0ae2575-bddb-4b34-83f7-c0a7c4c87357",
-      "description": "",
+      "description": "Benchtop test tube holder with temperature maintained at 37°C. Suitable for operation on 220V, single-phase, 50Hz AC supply.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201016%20BB%20Dry%20Bath.pdf?alt=media&token=b3b28794-20ce-4a46-990f-09211c0412c5"
     },
 
@@ -76,7 +68,7 @@
       "id" : "ase102",
       "name" : "Incubator",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-102%20(2).png?alt=media&token=5e88ab25-2b27-4bfa-b216-53988ae9b761",
-      "description" : "Super Automatic Model",
+      "description" : "Super Automatic Model with Electronic Digital Controller. Triple-walled stainless steel chamber. Temperature range: +5°C to +50°C.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20102%20Incubator%20(Super%20Automatic%20Model).pdf?alt=media&token=f63a1aab-f341-453d-9e1e-2e9ce520c70c"
     },
 
@@ -100,7 +92,7 @@
       "id" : "ase103a",
       "name" : "Incubator",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-101.png?alt=media&token=e58d738e-4487-4a1c-845b-c47e61208ef2",
-      "description" : "Super Deluxe Automatic Digital Model",
+      "description" : "Super Deluxe Automatic Digital Model with Electronic Digital Controller. Triple-walled stainless steel chamber. Temperature range: +5°C to +50°C.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20103%20Incubator%20(Super%20Deluxe%20Automatic%20Digital%20Model).pdf?alt=media&token=34ed59f8-1631-4f28-8699-9702a9f21515"
     },
 
@@ -147,7 +139,7 @@
     {
       "id" : "ase1066",
       "name" : "Microscope Binocular Inclined Pathological Biomad-20",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1066.png?alt=media&token=c222a116-cd4d-4a76-a5b9-105b34b1914b",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fmicroscopebinocular.png?alt=media&token=74ee28f7-748c-4d00-b9f9-062e4edcb11b",
       "description" : "Sturdy binocular microscope with 45-degree inclined head, ball-bearing nosepiece, ABBE condenser, and semi-plan achromatic objectives. Features 6V 20W halogen illumination and a hinged door for quick bulb change.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201066%20Microscope%20Binocular%20Inclined%20Pathological%20Biomad-20.pdf?alt=media&token=d5ae248e-f367-4ad6-bf96-45b26d94b552"
     },
@@ -213,7 +205,7 @@
     {
       "id" : "ase10a2",
       "name" : "Human Slides Histology",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fslides.jpg?alt=media&token=b98e8b46-865f-4a09-9eea-be01c54874e2",
       "description" : "Collection of slides for human histology studies, including various tissues and organs. Available upon request. Browse the Catalogue",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%2010A2%20Human%20Slides%20Histology.pdf?alt=media&token=7740261e-bc94-4cff-8dd1-f4cdb33767f8"
     },
@@ -631,7 +623,7 @@
       "id" : "ase148mf",
       "name" : "Muffle Furnace",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-148.png?alt=media&token=d9991ca1-066f-4bf0-b365-5fd979aee467",
-      "description" : "Grooved Refractory Type",
+      "description" : "Grooved Refractory Type - Electric furnace, up to 1400°C, ceramic fiber insulation, double-walled casing. Various sizes and options available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20148%20Muffle%20Furnace%20(Grooved%20Refractory%20Type).pdf?alt=media&token=d5044965-0b58-4d7f-a250-17b2187d4f0a"
     },
 
@@ -639,7 +631,7 @@
       "id" : "ase148mfr",
       "name" : "Muffle Furnace Rectangular",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-148%20%26%20149.png?alt=media&token=cb54fbdd-fbab-4b80-b5f7-581e03ea36c6",
-      "description" : "",
+      "description" : "Lightweight, ceramic fiber insulation, double-walled stainless steel. Silicon Carbide heating. Microprocessor-based PID control. Various sizes and options available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20148%20Muffle%20Furnace%20Reactangular.pdf?alt=media&token=3b69d3f9-cb54-4cab-bf6b-920444875eb7"
     },
 
@@ -647,7 +639,7 @@
       "id" : "ase149",
       "name" : "Muffle Furnace",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-148%20%26%20149.png?alt=media&token=cb54fbdd-fbab-4b80-b5f7-581e03ea36c6",
-      "description" : "Industrial Grooved Type",
+      "description" : "Industrial Grooved Type - Lightweight, ceramic fiber insulation, double-walled stainless steel. Silicon Carbide heating. Microprocessor-based PID control. Various sizes and options available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20149%20Muffle%20Furnace(Industrial%20Grooved%20Type).pdf?alt=media&token=8f535f3a-2230-45ad-9d5d-9214b83c4bf6"
     },
 
@@ -663,7 +655,7 @@
       "id" : "ase151h",
       "name" : "Hot Air Oven Universal",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-151%20Hot%20Air.png?alt=media&token=2547c1d2-4db7-4218-addb-c254ae074260",
-      "description" : "Memmert Type",
+      "description" : "Memmert Type - Sturdy double-walled units with M.S. outer chamber, stainless steel inner chamber, and high-grade insulation. Various sizes available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20151%20Hot%20Air%20Oven%20Universal%20(Memmert%20Type).pdf?alt=media&token=42657d1d-551d-48b2-b60b-e17272817fc3"
     },
 
@@ -839,7 +831,7 @@
     {
       "id" : "ase176",
       "name" : "Gyratory Sieve Shaker",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fgyratory%20sieve%20shaker.png?alt=media&token=fb078377-9c7e-4ed1-b1c0-d68e14541fae",
       "description" : "Gyratory sieve shaker with perfect/motor for dry analysis, 1/4 HP motor, accommodates 6 to 8 inches sieves. Optional 0-60 minutes timer.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20176%20Gyratory%20Sieve%20Shaker(with%20perfect-motor).pdf?alt=media&token=c0ac0a14-e701-424f-9efe-7ff8714c4e75"
     },
@@ -1324,11 +1316,10 @@
     {
       "id" : "ase222v",
       "name" : "Vertical Slab Electrophoresis Apparatus",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Felectrophoresisapparatus.jpg?alt=media&token=3146e2da-f87b-4355-a38c-ec344441bbe3",
       "description" : "Perspex electrophoresis unit includes comb, spacers, glass plates, clamps, electrode terminals, and Platinum electrodes. Option for adjustable height with stainless steel rods.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20222%20Vertical%20Slab%20Electrophoresis%20Apparatus%20(fixed%20Height).pdf?alt=media&token=386474b3-2056-447c-9b61-a7e38877db1a"
     },
-
 
     {
       "id" : "ase226e",
@@ -1342,7 +1333,7 @@
     {
       "id" : "ase229",
       "name" : "UV Fluorescence Analysis Cabinet",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FUVFLOROSENCEANALYSISCABINET.png?alt=media&token=aa21f130-2e47-4fcb-a533-f06c48d9de79",
       "description" : "For visualization of test objects under U.V. tubes with long wave and short wave length (365 and 254 n.m.) as desired",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20229%20UV%20Fluorescence%20Analysis%20Cabinet.pdf?alt=media&token=76c2e00f-48c5-4d22-b411-3abe41d4289b"
     },
@@ -1360,7 +1351,7 @@
     {
       "id" : "ase231",
       "name" : "Blood Cell counter (Clay Adam Type)",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FBLOODCELLCOUNTERCLAYADAM.jpg?alt=media&token=2a9ac1fc-c121-4e99-9133-abdf50b8a36f",
       "description" : "Counter for precise cell counting. Available with 5 or 8 keys, including a totalizer. Bell signals every hundred counts. Includes storage case.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20231%20Nlood%20Cell%20counter%20(Clay%20Adam%20Type).pdf?alt=media&token=f933f542-95a1-4a35-83b5-a7cd26b24e56"
     },
@@ -1378,7 +1369,7 @@
     {
       "id" : "ase232",
       "name" : "Thin Layer Chromatography kit (TLC Kit)",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-220.png?alt=media&token=676d0b03-2c7a-4710-87b6-2e64061ee4ee",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20232%20Thin%20Layer%20Chroatography%20kit%20(TLC%20kit).pdf?alt=media&token=16b6887e-153d-46a4-803d-b07007dace2c"
     },
@@ -1386,9 +1377,9 @@
 
     {
       "id" : "ase233",
-      "name" : "Seed Food Grain MOisture Meter",
-      "image" : "",
-      "description" : "",
+      "name" : "Seed/Food Grain Moisture Meter",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fseedmoisturemeter.jpg?alt=media&token=3f674872-34a7-4e1e-a119-0cd70525625d",
+      "description" : "Portable moisture detector for grains and seeds, measures 8-40% with accuracy of +0.2%. Operates on AC or battery.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20233%20Seed%20Food%20Grain%20Moisture%20Meter.pdf?alt=media&token=8f9b263b-74c2-47ac-a7fd-e1da4c64ec7f"
     },
 
@@ -1397,7 +1388,7 @@
       "id" : "ase234",
       "name" : "Soil Moisture Meter",
       "image" : "",
-      "description" : "",
+      "description" : "Soil moisture instrument, calibrated 0-100% on analog meter. Range: 7-30%, accuracy +0.5%. Also available in digital model.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20234%20Soil%20Moisture%20Meter.pdf?alt=media&token=575a68ec-0812-483a-a4dd-02ba20345ef7"
     },
 
@@ -1480,7 +1471,7 @@
     {
       "id" : "ase248",
       "name" : "Freezing Microtome",
-      "image" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FFREEZINGMICROTOME.png?alt=media&token=f2481c9a-a8ae-44f9-af04-2a1446a711b4",
       "description" : "Erma Japan Type microtome for frozen sections, table model, section thickness 5-40 microns. Supplied with freezing attachment, knife, and honing plate. Optional accessories available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20248%20Freezing%20Microtome%20(Erma%20Japan%20Type).pdf?alt=media&token=ee756a63-4606-4456-ae2f-7ecad72b0b64"
     },
@@ -1496,8 +1487,8 @@
     {
       "id" : "ase250",
       "name" : "Microtome Crysostat",
-      "image" : "",
-      "description" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FMicrotomoeCryostat.png?alt=media&token=e438870f-e91a-4f34-a26e-8975aea8d0c7",
+      "description" : "Microtome with rust-proof microtome and feed range 2-20 microns. Heavy-gauge M.S. Sheet cabinet with digital temp. indicator-controller. Temperature options: (a) -300°C, (b) -400°C.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20250%20Microtome%20Cryostat.pdf?alt=media&token=adb68cec-b7a2-40b5-825e-448e3d0d8bd4"
     },
 
@@ -1527,8 +1518,8 @@
 
     {
       "id" : "ase252a",
-      "name" : "Stanning rack for Slide Bulk Staining Hangers",
-      "image" : "",
+      "name" : "Stanning Rack for Slide Bulk Staining Hangers",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fstanningrack.png?alt=media&token=f4327f91-5045-41f4-9cb6-9ae62a715e2b",
       "description" : "Height 5 cm x length 40 cm",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20252a%20Stanning%20Rack%20for%20slide%20bulk%20staining%20Hangers.pdf?alt=media&token=45005fbb-216b-46d4-95de-d33d396081e5"
     },
@@ -1761,8 +1752,8 @@
 
     {
       "id" : "lm104",
-      "name" : "Attendedt Branch wooden",
-      "image" : "",
+      "name" : "Attendedt Branch Wooden",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Ftable.jpg?alt=media&token=439ec8cc-2ca2-44ca-8909-b2e13b67503a",
       "description" : "",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/Attendedt%20Branch%20wooden.pdf?alt=media&token=fd322118-3c65-41bc-8078-e357cef80d2c"
     },
