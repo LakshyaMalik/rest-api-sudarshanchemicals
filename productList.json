@@ -20,7 +20,7 @@
       "id": "ase101",
       "name": "BOD Incubator",
       "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-101.png?alt=media&token=e58d738e-4487-4a1c-845b-c47e61208ef2",
-      "description": "Low Temperature",
+      "description": "Versatile low-temp indicator for BOD determinations. Double-walled, castor-mounted cabinet with temp control. Inner chamber: aluminum/stainless steel.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101%20Incubator%20(Low%20Temp).pdf?alt=media&token=66fcd62c-b3d9-44b2-9f2f-651d53c8927b"
     },
     
@@ -1187,15 +1187,7 @@
       "description" : "Lister Type",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%202037%20Perimeter%20(Lister%20Type).pdf?alt=media&token=d91e34ed-ba71-47bb-bb80-e310d6394d9f"
     },
-
-    {
-      "id" : "ase204",
-      "name" : "Display Bos For Skeleton",
-      "image" : "",
-      "description" : "Aluminium, cream finish, unbreakable glass, double-sided, LED illumination, H 8' x W 5' x D 1.5'.",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20204%20Display%20Bos%20For%20Skeleton.pdf?alt=media&token=66da5acf-904a-4424-bc9a-f56ccbb9c326"
-    },
-
+    
     {
       "id" : "ase209a",
       "name" : "Heating Mantle",
