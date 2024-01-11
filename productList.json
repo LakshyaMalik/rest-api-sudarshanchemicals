@@ -285,13 +285,6 @@
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20113%20Orbital%20Shaking%20Incubator%20-%20Water%20Bath%20(useful%20for%20growing%20cultures%20of%20micro-organisms%20and%20tissue%20cells).pdf?alt=media&token=2f9fd9a5-2ecd-4262-9def-50937f176a6a"
     },
 
-    {
-      "id" : "ase1155",
-      "name" : "Fortin Barometer",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-%201155.jpg?alt=media&token=f281da32-79e9-4bd6-9514-4d584fc87ad5",
-      "description" : "Precision mercury barometer with adjustable wash-leather bag, accurate readings, and optional specifications.",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201155%20Fortin%20Barometer.pdf?alt=media&token=a01f1703-91b1-4d63-84a0-94b0d30d9a54"
-    },
 
     {
       "id" : "ase1164",
@@ -347,22 +340,6 @@
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-120.png?alt=media&token=7aa9d96f-5ac7-4635-8259-41cb246de29b",
       "description" : "Oil-Free Vacuum Pump for filtration, solid phase extraction, with accessories. Quiet, maintenance-free.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20120%20Vaccum%20Oven.pdf?alt=media&token=9ffb0a1f-d354-4cc6-afbe-f24f2366e1d5"
-    },
-
-    {
-      "id" : "ase1200",
-      "name" : "Thermometer Laboratory",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1200.png?alt=media&token=cc4e70bf-7b48-405f-900d-b07f68a464a2",
-      "description" : "12-inch glass thermometer with mercury or organic liquid, -10 to 250°C range, accurate, readable, and affordable. Partial or total immersion options.",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201200%20Thermometer%20Laboratory.pdf?alt=media&token=20c7b887-43ea-464f-932e-bdab3b2ff3d1"
-    },
-
-    {
-      "id" : "ase1201",
-      "name" : "Urinometers",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FUrinometer.jpg?alt=media&token=6aea46fd-41f5-4b6d-98e3-93472ceac8a4",
-      "description" : "Urinometers measure urine specific gravity with a glass float, weight, and calibrated stem.",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201201%20Urinometers.pdf?alt=media&token=b15cac14-24b5-4c6b-ba31-e8d5592f58b0"
     },
 
     {
@@ -1779,8 +1756,30 @@
       "description" : "Instrument for determining the trend of venous pressure knowledge",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/Direct%20Venous%20Pressure%20Apparatus%20Complete%20(instrument%20for%20determeining%20the%20trend%20of%20venous%20pressure%20knowledge).pdf?alt=media&token=0fbd83e7-81b9-4843-a204-24079ca71663"
     },
+    
+    {
+      "id" : "ase1155",
+      "name" : "Fortin Barometer",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE%20-%201155.jpg?alt=media&token=f281da32-79e9-4bd6-9514-4d584fc87ad5",
+      "description" : "Precision mercury barometer with adjustable wash-leather bag, accurate readings, and optional specifications.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201155%20Fortin%20Barometer.pdf?alt=media&token=a01f1703-91b1-4d63-84a0-94b0d30d9a54"
+    },
+    
+    {
+      "id" : "ase1200",
+      "name" : "Thermometer Laboratory",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1200.png?alt=media&token=cc4e70bf-7b48-405f-900d-b07f68a464a2",
+      "description" : "12-inch glass thermometer with mercury or organic liquid, -10 to 250°C range, accurate, readable, and affordable. Partial or total immersion options.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201200%20Thermometer%20Laboratory.pdf?alt=media&token=20c7b887-43ea-464f-932e-bdab3b2ff3d1"
+    },
 
-        
+    {
+      "id" : "ase1201",
+      "name" : "Urinometers",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FUrinometer.jpg?alt=media&token=6aea46fd-41f5-4b6d-98e3-93472ceac8a4",
+      "description" : "Urinometers measure urine specific gravity with a glass float, weight, and calibrated stem.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201201%20Urinometers.pdf?alt=media&token=b15cac14-24b5-4c6b-ba31-e8d5592f58b0"
+    },
     {
       "id" : "lm102",
       "name" : "Ambu Bag",
