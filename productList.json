@@ -122,8 +122,16 @@
     },     
 
     {
+      "id" : "ase020ib",
+      "name" : " ASE-020 IMPRESSION BOARD",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fase020ib.png?alt=media&token=0ad2720d-7e99-45fc-b594-d89d1f9ed97d",
+      "description" : " Assorted number- 25, 50 nos.( A to Z & 0 to 9) of impression with a depth of 2-4cm. As per requirement of laboratory",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-021%20illuminated%20Stand%20Magnifier.pdf?alt=media&token=07b6ad2b-c139-4ffe-9948-9ff4de68620b"
+    },
+        
+    {
       "id" : "ase021",
-      "name" : " ASE- 021 ILLUMINATED STAND MAGNIFIER",
+      "name" : " ASE-021 ILLUMINATED STAND MAGNIFIER",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ase021magni.png?alt=media&token=1b8544cc-bf3c-4640-a371-0e72b95e4885",
       "description" : "A22 watt circular fluorescent tube housed in a tough ABS shed around the lens provides light that is shadow less, glare free, coil and of daylight colour. Illumination having large size (130 mm dia)",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-021%20illuminated%20Stand%20Magnifier.pdf?alt=media&token=07b6ad2b-c139-4ffe-9948-9ff4de68620b"
@@ -193,7 +201,6 @@
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-A202%20Glass%20Desicators.pdf?alt=media&token=b840aba1-cfac-4c6e-a168-5aa4d3e5eb60"
     },
 
-
     {
       "id" : "ase101a",
       "name" : "Incubator",
@@ -201,7 +208,7 @@
       "description" : "Versatile low temp indicator for BOD, triple-walled cabinet, castor-mounted, temp range 5-60°C, with circulation, thermostat, timer, lamp.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101%20Incubator%20(Low%20Temp).pdf?alt=media&token=66fcd62c-b3d9-44b2-9f2f-651d53c8927b"
     },
-            
+                
     {
       "id" : "ase-220csd",
       "name" : "ASE-220 COOLING  SYSTEM & DEHUMIDIFIER  FOR  ANALYSIS CHAMBER",
