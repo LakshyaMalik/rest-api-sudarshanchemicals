@@ -19,10 +19,10 @@
         
     {
       "id" : "ase151h",
-      "name" : "Hot Air Oven Universal",
+      "name" : "ASE-151 HOT AIR OVEN UNIVERSAL (MEMMERT TYPE)",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-151%20Hot%20Air.png?alt=media&token=2547c1d2-4db7-4218-addb-c254ae074260",
       "description" : "Memmert Type - Sturdy double-walled units with M.S. outer chamber, stainless steel inner chamber, and high-grade insulation. Various sizes available.",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20151%20Hot%20Air%20Oven%20Universal%20(Memmert%20Type).pdf?alt=media&token=42657d1d-551d-48b2-b60b-e17272817fc3"
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-151g%20HOT%20AIR%20OVEN.pdf?alt=media&token=7648cdd5-c95b-48a6-9b92-cbd306053d4a"
     },
 
     {
@@ -52,15 +52,15 @@
     
     {
       "id" : "ase102",
-      "name" : "Incubator",
+      "name" : " ASE-102 BOD INCUBATOR (LOW TEMPERATURE)",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-102%20(2).png?alt=media&token=5e88ab25-2b27-4bfa-b216-53988ae9b761",
       "description" : "Super Automatic Model with Electronic Digital Controller. Triple-walled stainless steel chamber. Temperature range: +5°C to +50°C.",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20102%20Incubator%20(Super%20Automatic%20Model).pdf?alt=media&token=f63a1aab-f341-453d-9e1e-2e9ce520c70c"
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-102%20%20BOD%20INCUBATOR.pdf?alt=media&token=d20d2c60-e4c0-4b38-8b2c-3a261f2b5586"
     },
 
     {
       "id": "ase101",
-      "name": "BOD Incubator",
+      "name": "Incubator",
       "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-101.png?alt=media&token=e58d738e-4487-4a1c-845b-c47e61208ef2",
       "description": "Versatile low-temp indicator for BOD determinations. Double-walled, castor-mounted cabinet with temp control. Inner chamber: aluminum/stainless steel.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101%20Incubator%20(Low%20Temp).pdf?alt=media&token=66fcd62c-b3d9-44b2-9f2f-651d53c8927b"
@@ -68,12 +68,133 @@
 
     {
       "id": "ase1016",
-      "name": "BB Dry Bath",
+      "name": "ASE-1016 BB Dry Bath",
       "image": "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-1016BB.png?alt=media&token=c0ae2575-bddb-4b34-83f7-c0a7c4c87357",
       "description": "Benchtop test tube holder with temperature maintained at 37°C. Suitable for operation on 220V, single-phase, 50Hz AC supply.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201016%20BB%20Dry%20Bath.pdf?alt=media&token=b3b28794-20ce-4a46-990f-09211c0412c5"
     },
     
+    {
+      "id" : "ase107",
+      "name" : "ASE-107 CONTROLLED SEED STORAGE ROOM",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FcontrolledSeedStorageRoomASE107.png?alt=media&token=334a55fa-83c3-4373-9fe9-6392c89ad1d1",
+      "description" : "16ft x 16ft x 11ft insulated seed testing room with PUF sheets, RCC walls, airlock door, refrigeration (10-45°C), dehumidifier, and control panel.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-107%20CONTROLLED%20SEED%20STORAGE%20ROOM.pdf?alt=media&token=6d0404bb-a83d-46dd-ac54-8610fec98e21"
+    },
+        
+    {
+      "id" : "ase171",
+      "name" : " ASE-171 MAGNETIC STIRRER WITH HOT PLATE",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fase171.png?alt=media&token=4f8a6389-a725-46f8-a0ba-e063dd6b6b8c",
+      "description" : "An advanced laboratory instrument designed for precise temperature control and stirring applications. 2000ml capacity, 100-1250 RPM, 300°C max, programmable settings, LCD display",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-171MAGNETIC%20STIRRER%20WITH%20HOT%20PLATE.pdf?alt=media&token=bd695a58-a37f-4f86-9461-0a21c2a071b3"
+    },
+        
+    {
+      "id" : "ase213a",
+      "name" : "ASE-213A HEATING MANTLES SIX HEATERS",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-213.png?alt=media&token=7437a8c2-d873-4b7c-a8e0-2bc4f6c2d2df",
+      "description" : "SOXHLET EXTRATION UNIT",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-213A%20HEATING%20MANTLES%20SIX%20HEATERS.pdf?alt=media&token=388f8660-60ea-433d-96cf-50b84e847d0a"
+    },     
+        
+    {
+      "id" : "ase-148ss",
+      "name" : "ASE-148ss MUFFLE FURNACE RECTANGULAR",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ase148ssMufflefur.png?alt=media&token=5fec5775-ca81-4bc8-b9de-cf5cc6bb89ed",
+      "description" : "Designed for high-temperature applications such as heat treatment, material testing, and ashing procedures",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-148%20MUFFLE%20FURNACE%20RECTANGULAR.pdf?alt=media&token=ad745b62-de78-4979-8565-639b90144a45"
+    },     
+        
+    {
+      "id" : "ase-110",
+      "name" : " ASE-110 Double-Door Laboratory Refrigerator",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/doubledoorrefase110.png?alt=media&token=ccc9b4a7-9d85-4cda-a05c-da915c662765",
+      "description" : "Designed for efficient cooling, energy savings, and durability. With inverter technology and a convertible freezer-to-fridge function",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-110%20Double-Door%20Laboratory%20Refrigerator.pdf?alt=media&token=af922719-2ed4-4d0e-b2b6-06ec914856e0"
+    },     
+        
+    {
+      "id" : "ase-132",
+      "name" : " ASE-132  FUME HOOD (CUPBOARD)",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ase132Fumehood.png?alt=media&token=f48f477a-b799-4ef1-8577-874b580eb052",
+      "description" : "Fabricated with Heavy gauge CRC sheet, angle iron frame, removes toxic gases, fumes, vapors, and odors, protecting instruments and users.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-132%20%20FUME%20HOOD.pdf?alt=media&token=d589a6f0-e296-4f76-9737-3a2d867bd0fe"
+    },     
+
+    {
+      "id" : "ase021",
+      "name" : " ASE- 021 ILLUMINATED STAND MAGNIFIER",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ase021magni.png?alt=media&token=1b8544cc-bf3c-4640-a371-0e72b95e4885",
+      "description" : "A22 watt circular fluorescent tube housed in a tough ABS shed around the lens provides light that is shadow less, glare free, coil and of daylight colour. Illumination having large size (130 mm dia)",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-021%20illuminated%20Stand%20Magnifier.pdf?alt=media&token=07b6ad2b-c139-4ffe-9948-9ff4de68620b"
+    },      
+
+    {
+      "id" : "ase173mg",
+      "name" : " ASE-173 MIXER/ GRINDER SAMPLE GRINDER",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ase173mg.png?alt=media&token=7ff733f4-9ca4-4917-914c-0672f26eba4d",
+      "description" : "750W mixer grinder, 230V AC, ABS body, 3 stainless steel jars (1.5L, 1L, 0.5L), stainless steel blades, overload protection, variable speed control.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-173%20Mixer%20Grinder.pdf?alt=media&token=1112a24c-8925-4b4e-a2ab-c1754505d3dc"
+    },
+
+    {
+      "id" : "ase180a",
+      "name" : " ASE-180A INDIAN STANDARD SIEVE  (HAND SIEVE)",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ase-180aSieve.png?alt=media&token=08127ccd-73c3-4dd3-9973-d678e9f3b6c2",
+      "description" : " For screening of seed samples, dia 12''x3'' sieves of zinc plated,  MS frame",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-180A%20INDIAN%20STANDARD%20SIEVE%20.pdf?alt=media&token=d1e22851-8415-4f2c-9375-5359437afcdb"
+    },
+
+    {
+      "id" : "ase201asc",
+      "name" : " ASE-201 AUTOMETIC SEED COUNTING MACHINE",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ase180ascm.png?alt=media&token=6f657539-7233-4b74-90a9-4d58c4618967",
+      "description" : "LED display, adjustable count speed, suitable for all seed types, measures 1-1000 seeds, 5+ hours continuous operation, 1 min/100 seeds precision.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-201%20AUTOMETIC%20SEED%20COUNTING%20MACHINE.pdf?alt=media&token=cc2e2480-793f-4638-9a7b-c30afb87b9a0"
+    },
+
+    {
+      "id" : "ase362fpm",
+      "name" : " ASE-362 FLAME PHOTO METER",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-362%20FLAME%20PHOTO%20METER.png?alt=media&token=9866b8a0-1834-46d5-8542-4ec7b6bbf4a5",
+      "description" : "Microprocessor-based flame photometer with 7-inch touchscreen LCD, built-in PC, printer interface, analyzes Na & K simultaneously, interference removal.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-362%20FLAME%20PHOTO%20METER.pdf?alt=media&token=c2f19db6-4a48-4085-a28c-524bb4cded7b"
+    },
+
+    {
+      "id" : "ase2354sts",
+      "name" : "ASE-2354 SEED TRIERS (ASSORTED SIZE) STEEL/BRASS",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/aseseedtrier.png?alt=media&token=b6cb2c7e-f702-4ffe-bbd9-20d79bf08460",
+      "description" : "",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-2354%20SEED%20TRIERS%20.pdf?alt=media&token=e9c4ceee-f004-43e2-b8fb-f5331813767e"
+    },  
+
+    {
+      "id" : "ase2360std",
+      "name" : "ASE-2360 SOIL TYPE DIVIDER",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/soiltypedivider.png?alt=media&token=ba600dc1-9103-45a6-8c4e-46dcda91ad8e",
+      "description" : " Suitable for dividing or halving dry materials. ",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-2354%20SEED%20TRIERS%20.pdf?alt=media&token=e9c4ceee-f004-43e2-b8fb-f5331813767e"
+    },
+    
+    {
+      "id" : "ase2760pwb",
+      "name" : "ASE-2760 Putity Work Boards",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fase2760pwb.png?alt=media&token=4031d7f9-81e3-4810-ba77-621dafb80fab",
+      "description" : "ILLUMINATED PURITY BOARD designed for testing physical purity of Seed samples with maximum comfort and efficiency.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-2760%20Putity%20Work%20Boards.pdf?alt=media&token=1b51c289-8b02-450e-b9be-efd3955bfdc4"
+    },
+    
+    {
+      "id" : "aseA202d",
+      "name" : "ASE-A202 Glass Desiccators ",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fase-a202gd.png?alt=media&token=9103b53f-20bf-46c7-b300-baa85f65c9c7",
+      "description" : "Size-300mm approx. Flange OD 395mm.Approx total height 344mm.",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-A202%20Glass%20Desicators.pdf?alt=media&token=b840aba1-cfac-4c6e-a168-5aa4d3e5eb60"
+    },
+
+
     {
       "id" : "ase101a",
       "name" : "Incubator",
@@ -116,15 +237,15 @@
 
     {
       "id" : "ase104",
-      "name" : "Seed Germinator",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-104%20(2).png?alt=media&token=902e92f6-3af5-48dd-ba43-62514021b212",
+      "name" : " ASE-104 Seed Germinator (Single Chamber)",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ase-104SeedGerminator.png?alt=media&token=26af594a-e274-4ec3-baa8-71d40c968f06",
       "description" : "Single Chamber, double-walled for temp control (50°C to 500°C) and humidity (90-95% RH). Includes 14 trays; optional: lighting, timer, humidity control, and digital indicators.",
-      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20104%20Seed%20Germinator%20(Single%20Chamber).pdf?alt=media&token=dad71ffb-d4b3-457d-b787-97f0c108157b"
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-104%20Seed%20Germinator%20.pdf?alt=media&token=5e12eee9-2c7c-45da-ace3-3cd3cbda4c1c"
     },
 
     {
       "id" : "ase105",
-      "name" : "Seed Germinator",
+      "name" : "Seed Germinator (Dual Chamber)",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-105.png?alt=media&token=b0f4fbb1-6932-47d6-9660-e2cb70f552e7",
       "description" : "Dual Chamber Seed germinator with double-walled design, Microprocessor-based temperature control (50°C to 500°C), programmable lighting, and optional features for humidity, timer, and mobility.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20105%20Seed%20Germinator%20(Dual%20Chamber).pdf?alt=media&token=634ec62f-72e4-4697-b4fe-0f4c51a41996"
@@ -608,7 +729,7 @@
 
     {
       "id" : "ase148mf",
-      "name" : "Muffle Furnace",
+      "name" : "ASE148 Muffle Furnace Refractory Type",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-148.png?alt=media&token=d9991ca1-066f-4bf0-b365-5fd979aee467",
       "description" : "Grooved Refractory Type - Electric furnace, up to 1400°C, ceramic fiber insulation, double-walled casing. Various sizes and options available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20148%20Muffle%20Furnace%20(Grooved%20Refractory%20Type).pdf?alt=media&token=d5044965-0b58-4d7f-a250-17b2187d4f0a"
@@ -616,7 +737,7 @@
 
     {
       "id" : "ase148mfr",
-      "name" : "Muffle Furnace Rectangular",
+      "name" : "ASE 148 Muffle Furnace Rectangular",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-148%20%26%20149.png?alt=media&token=cb54fbdd-fbab-4b80-b5f7-581e03ea36c6",
       "description" : "Lightweight, ceramic fiber insulation, double-walled stainless steel. Silicon Carbide heating. Microprocessor-based PID control. Various sizes and options available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20148%20Muffle%20Furnace%20Reactangular.pdf?alt=media&token=3b69d3f9-cb54-4cab-bf6b-920444875eb7"
@@ -624,7 +745,7 @@
 
     {
       "id" : "ase149",
-      "name" : "Muffle Furnace",
+      "name" : "ASE-149 Muffle Furnace",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-148%20%26%20149.png?alt=media&token=cb54fbdd-fbab-4b80-b5f7-581e03ea36c6",
       "description" : "Industrial Grooved Type - Lightweight, ceramic fiber insulation, double-walled stainless steel. Silicon Carbide heating. Microprocessor-based PID control. Various sizes and options available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20149%20Muffle%20Furnace(Industrial%20Grooved%20Type).pdf?alt=media&token=8f535f3a-2230-45ad-9d5d-9214b83c4bf6"
