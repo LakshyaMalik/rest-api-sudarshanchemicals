@@ -19,7 +19,7 @@
         
     {
       "id" : "ase151h",
-      "name" : "ASE-151 HOT AIR OVEN UNIVERSAL (MEMMERT TYPE)",
+      "name" : "ASE-151G HOT AIR OVEN UNIVERSAL (MEMMERT TYPE)",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2FASE-151%20Hot%20Air.png?alt=media&token=2547c1d2-4db7-4218-addb-c254ae074260",
       "description" : "Memmert Type - Sturdy double-walled units with M.S. outer chamber, stainless steel inner chamber, and high-grade insulation. Various sizes available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE-151g%20HOT%20AIR%20OVEN.pdf?alt=media&token=7648cdd5-c95b-48a6-9b92-cbd306053d4a"
@@ -48,7 +48,6 @@
       "description": "Ultrasonic cleaner equipped with digital timer, microprocessor control for consistent cleaning, and safety features such as high-temperature alarm and energy-saving sleep mode.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%201015%20Ultra%20Sonic%20Cleaner.pdf?alt=media&token=31925c1a-03ea-4c2b-bf00-f70c9a5ee594"
     },
-
     
     {
       "id" : "ase102",
@@ -83,7 +82,7 @@
     },
         
     {
-      "id" : "ase171",
+      "id" : "ase171mswhp",
       "name" : " ASE-171 MAGNETIC STIRRER WITH HOT PLATE",
       "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fase171.png?alt=media&token=4f8a6389-a725-46f8-a0ba-e063dd6b6b8c",
       "description" : "An advanced laboratory instrument designed for precise temperature control and stirring applications. 2000ml capacity, 100-1250 RPM, 300°C max, programmable settings, LCD display",
@@ -202,6 +201,22 @@
       "description" : "Versatile low temp indicator for BOD, triple-walled cabinet, castor-mounted, temp range 5-60°C, with circulation, thermostat, timer, lamp.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20101%20Incubator%20(Low%20Temp).pdf?alt=media&token=66fcd62c-b3d9-44b2-9f2f-651d53c8927b"
     },
+            
+    {
+      "id" : "ase-220csd",
+      "name" : "ASE-220 COOLING  SYSTEM & DEHUMIDIFIER  FOR  ANALYSIS CHAMBER",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fase220cs.png?alt=media&token=3c180695-2686-4d06-9872-cb05df192b5d",
+      "description" : " designed for efficient moisture control and temperature regulation in an analysis chamber",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/cooling%20systemnew.pdf?alt=media&token=d57d3366-9699-46d9-b611-bccaaf48b02b"
+    },     
+            
+    {
+      "id" : "ase-1036ws",
+      "name" : "ASE-1036 WATER SPRINKLERS",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fase-1033watersplinker.png?alt=media&token=a73cd69f-80cb-49cb-b2b7-f054e182cab7",
+      "description" : "15 litres Capacity approx",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ws.pdf?alt=media&token=1bbbc3bd-1e19-4f2a-818d-37e2d08b0368"
+    },     
 
     {
       "id" : "ase1025",
@@ -234,6 +249,14 @@
       "description" : "Stainless steel body, transparent lid, variable speed, digital RPM display, temperature control, various sizes. Optional accessories available.",
       "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ASE%20104%20Orbital%20Shaking%20Incubators.pdf?alt=media&token=a37eed36-ccf5-42c9-80eb-7aeddbbf25b6"
     },
+            
+    {
+      "id" : "ase-",
+      "name" : "ASE-189 COUNTING BOARDS",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/images%2Fase189cb.png?alt=media&token=b41d7af3-8f9f-49f1-b8fc-9874ddf73093",
+      "description" : "The counting and Placement Board is constructed of durable acrylic material .",
+      "brochure" : "https://firebasestorage.googleapis.com/v0/b/sudrshanchemicals.appspot.com/o/ws.pdf?alt=media&token=1bbbc3bd-1e19-4f2a-818d-37e2d08b0368"
+    },     
 
     {
       "id" : "ase104",
